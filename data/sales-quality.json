@@ -1,0 +1,2075 @@
+{
+  "as_of": "2026-11-20",
+  "raw_records": 298,
+  "eligible_before_dedupe": 79,
+  "canonical_sales": 54,
+  "today_sales": 30,
+  "duplicates_merged": 25,
+  "excluded_by_reason": {
+    "auction_not_in_person_sale": 4,
+    "past_sale": 104,
+    "too_far_ahead": 1,
+    "inactive_status": 5,
+    "appointment_or_retail": 2,
+    "unconfirmed_permit": 103
+  },
+  "excluded": [
+    {
+      "reason": "auction_not_in_person_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Aladdin Lamps, Clocks, Radios, and More Auction!",
+      "title": "Aladdin Lamps, Clocks, Radios, and More Auction!",
+      "address": "Off of Rebecca Creek Rd Spring Branch, TX 78070, Spring Branch, TX 78070",
+      "url": "https://garagesalefinder.com/s/N9VGu/off-of-rebecca-creek-rd-spring-branch-tx-78070-spring-branch-tx-78070"
+    },
+    {
+      "reason": "auction_not_in_person_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Oak Run Furniture And Collectibles Auction",
+      "title": "Oak Run Furniture And Collectibles Auction",
+      "address": "New Braunfels, TX 78130",
+      "url": "https://garagesalefinder.com/s/N929K/new-braunfels-tx-78130"
+    },
+    {
+      "reason": "auction_not_in_person_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-newbraunfelstx-2026-11-09",
+      "title": "Oak Run Furniture And Collectibles Auction",
+      "address": "New Braunfels, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196458911"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "exn-ipcsae00229431",
+      "title": "Estate Sale in Sonoma Ranch",
+      "address": "346 Pueblo Pintado, Helotes, TX 78023",
+      "url": "https://hearst-mp.ipublishmarketplace.com/marketplace/sanantonio/advert/estate-sale-in-sonoma-ranch-general_1012"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "exn-ipcsae00231261",
+      "title": "GARAGE SALE!",
+      "address": "6727 Glen Fair, San Antonio, TX 78239",
+      "url": "https://hearst-mp.ipublishmarketplace.com/marketplace/sanantonio/advert/garage-sale-general_1046"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "exn-ipcsae00231141",
+      "title": "GARAGE SALE",
+      "address": "5858 Laurel Valley, San Antonio, TX 78242",
+      "url": "https://hearst-mp.ipublishmarketplace.com/marketplace/sanantonio/advert/garage-sale-general_1044"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "exn-ipcsae00230060",
+      "title": "FANTASTIC GARAGE SALE",
+      "address": "1102 Dwyerbrook, San Antonio, TX 78253",
+      "url": "https://hearst-mp.ipublishmarketplace.com/marketplace/sanantonio/advert/fantastic-garage-sale-general_1026"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "exn-ipcsae00228491",
+      "title": "CITY OF LEON VALLEY – CITYWIDE GARAGE SALE",
+      "address": "Leon Valley citywide, Leon Valley, TX 78238",
+      "url": "https://hearst-mp.ipublishmarketplace.com/marketplace/sanantonio/advert/city-of-leon-valley-citywide-garage-sale-general_1003"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "exn-ipcsae00229611",
+      "title": "COMMUNITY YARD SALE-SHAVANO RIDGE",
+      "address": "Shavano Ridge community, San Antonio, TX 78230",
+      "url": "https://hearst-mp.ipublishmarketplace.com/marketplace/sanantonio/advert/community-yard-sale-shavano-ridge-general_1019"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "wcn-385601",
+      "title": "Stockdale Multi-family yard sale",
+      "address": "12588 FM 537, Stockdale, TX",
+      "url": "https://www.wilsoncountynews.com/classifieds/garage-sale/385601/"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "wcn-385589",
+      "title": "Adkins Garage sale",
+      "address": "6690 Cooksey Rd, Adkins, TX",
+      "url": "https://www.wilsoncountynews.com/classifieds/garage-sale/385589/"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "wcn-385573",
+      "title": "Floresville Huge garage sale",
+      "address": "293 Saddle Lane, Floresville, TX",
+      "url": "https://www.wilsoncountynews.com/classifieds/garage-sale/385573/"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-2914rockyoakstsanantoniotx-2026-11-13",
+      "title": "Lots Of Great Stuff",
+      "address": "2914 Rocky Oak St, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196460595"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "sgx-93554d78",
+      "title": "127 & 192 PLACID HEIGHTS, 19 & 23",
+      "address": "127 Placid Heights, Seguin, TX",
+      "url": "https://seguingazette.com/classifieds/garage_sales/garage_sales/127-192-placid-heights-19-23/ad_93554d78-57f0-582d-a8a7-c966514cef19.html"
+    },
+    {
+      "reason": "too_far_ahead",
+      "input_file": "san-antonio.json",
+      "id": "ae-100001993008949418",
+      "title": "SPRING Community Wide Rummage Sale",
+      "address": "Fairlawn Drive, San Antonio, TX",
+      "url": "https://allevents.in/san-antonio/spring-community-wide-rummage-sale/100001993008949418"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "ae-200031017025850",
+      "title": "LUXURY, LUXURY, LUXURY!  Estate Sale",
+      "address": "211 S Flores St, San Antonio, TX 78204",
+      "url": "https://allevents.in/san-antonio/luxury-luxury-luxury-estate-sale/200031017025850"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "ysn-7HDdF",
+      "title": "Braunridge Community Garage Sale",
+      "address": "Braunridge community, Helotes, TX",
+      "url": "https://yardsales.net/s/7HDdF"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "ysn-7HnrT",
+      "title": "Southern Hills Community Yard Sale",
+      "address": "Southern Hills community, San Antonio, TX",
+      "url": "https://yardsales.net/s/7HnrT"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.49000,-98.46000|Yard Sale",
+      "title": "Yard Sale",
+      "address": "623 Blakeley Dr, San Antonio, TX 78209",
+      "url": "https://garagesalefinder.com/s/N92Lu/623-blakeley-dr-san-antonio-tx-78209"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.54000,-98.42000|Community Garage Sale and Pop-Up market",
+      "title": "Community Garage Sale and Pop-Up market",
+      "address": "2903 Nacogdoches Rd, San Antonio, TX 78217",
+      "url": "https://garagesalefinder.com/s/N92VL/2903-nacogdoches-rd-san-antonio-tx-78217"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.54000,-98.42000|Neighborhood-Wide Garage Sale",
+      "title": "Neighborhood-Wide Garage Sale",
+      "address": "2806 Mayfair Dr, San Antonio, TX 78217",
+      "url": "https://garagesalefinder.com/s/N9TBv/2806-mayfair-dr-san-antonio-tx-78217"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.39000,-98.39000|Southern Hills Community Yard Sale",
+      "title": "Southern Hills Community Yard Sale",
+      "address": "Southern Blf, San Antonio, TX 78222",
+      "url": "https://garagesalefinder.com/s/N92Rr/southern-blf-san-antonio-tx-78222"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.52000,-98.36000|Garage Sale",
+      "title": "Garage Sale",
+      "address": "5802 Grandwood Dr, San Antonio, TX 78239",
+      "url": "https://garagesalefinder.com/s/N92qF/5802-grandwood-dr-san-antonio-tx-78239"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.36000,-98.42000|🚨 MULTI-SELLER GARAGE SALE AT STORAGE FACILITY! 🚨",
+      "title": "🚨 MULTI-SELLER GARAGE SALE AT STORAGE FACILITY! 🚨",
+      "address": "12241 US-181, San Antonio, TX 78223",
+      "url": "https://garagesalefinder.com/s/N92VN/12241-us181-san-antonio-tx-78223"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.59000,-98.47000|Lots of Great Stuff",
+      "title": "Lots of Great Stuff",
+      "address": "2914 Rocky Oak St, San Antonio, TX 78232",
+      "url": "https://garagesalefinder.com/s/N92ek/2914-rocky-oak-st-san-antonio-tx-78232"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.56000,-98.39000|Raise a glass for Mr. Mike - Estate Sale!",
+      "title": "Raise a glass for Mr. Mike - Estate Sale!",
+      "address": "Universal City, TX 78233",
+      "url": "https://garagesalefinder.com/s/N9TbY/universal-city-tx-78233"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Braunridge Community Garage Sale",
+      "title": "Braunridge Community Garage Sale",
+      "address": "Alsfeld Rnch, Helotes, TX 78023",
+      "url": "https://garagesalefinder.com/s/N92jv/alsfeld-rnch-helotes-tx-78023"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Trophy Oaks Community Fall Sale",
+      "title": "Trophy Oaks Community Fall Sale",
+      "address": "20544 Wahl Ln, Garden Ridge, TX 78266",
+      "url": "https://garagesalefinder.com/s/N9Vim/20544-wahl-ln-garden-ridge-tx-78266"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Trophy Oaks Community Fall Sale",
+      "title": "Trophy Oaks Community Fall Sale",
+      "address": "9814 Trophy Oaks Dr, Garden Ridge, TX 78266",
+      "url": "https://garagesalefinder.com/s/N9ViJ/9814-trophy-oaks-dr-garden-ridge-tx-78266"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Trophy Oaks Community Fall Sale",
+      "title": "Trophy Oaks Community Fall Sale",
+      "address": "10041 Trophy Oaks Dr, Garden Ridge, TX 78266",
+      "url": "https://garagesalefinder.com/s/N9Vit/10041-trophy-oaks-dr-garden-ridge-tx-78266"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|HUGE TROPHY OAKS GARAGE SALE!",
+      "title": "HUGE TROPHY OAKS GARAGE SALE!",
+      "address": "20418 Wahl Lane, Garden Ridge, TX 78266",
+      "url": "https://garagesalefinder.com/s/N9bok/20418-wahl-lane-garden-ridge-tx-78266"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.79000,-98.73000|Moving Out Sale!",
+      "title": "Moving Out Sale!",
+      "address": "26765 Orchid Trl, Boerne, TX 78006",
+      "url": "https://garagesalefinder.com/s/N9bow/26765-orchid-trl-boerne-tx-78006"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "eso-2471690",
+      "title": "Raise a glass for Mr. Mike - Estate Sale!",
+      "address": "hidden, Universal City, TX 78233",
+      "url": "https://estatesales.org/estate-sales/tx/universal-city/78233/raise-a-glass-for-mr-2471690"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-5802grandwooddrsanantoniotx-2026-11-13",
+      "title": "Garage Sale",
+      "address": "5802 Grandwood Dr, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196458725"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-universalcitytx-2026-11-14",
+      "title": "Raise A Glass For Mr. Mike - Estate Sale!",
+      "address": "Universal City, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196451633"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-26765orchidtrlboernetx-2026-11-14",
+      "title": "Moving Out Sale! (14Th & 15Th)",
+      "address": "26765 Orchid Trl, Boerne, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196450703"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-2806mayfairdrsanantoniotx-2026-11-14",
+      "title": "Neighborhood-Wide Garage Sale",
+      "address": "2806 Mayfair Dr, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196452281"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-623blakeleydrsanantoniotx-2026-11-13",
+      "title": "Yard Sale",
+      "address": "623 Blakeley Dr, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196460879"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-2903nacogdochesrdsanantoniotx-2026-11-14",
+      "title": "Community Garage Sale And Pop-Up Market",
+      "address": "2903 Nacogdoches Rd, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196459103"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-alsfeldrnchhelotestx-2026-11-14",
+      "title": "Braunridge Community Garage Sale",
+      "address": "Alsfeld Rnch, Helotes, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196460723"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-southernblfsanantoniotx-2026-11-14",
+      "title": "Southern Hills Community Yard Sale",
+      "address": "Southern Blf, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196460077"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-12241us181sanantoniotx-2026-11-14",
+      "title": "🚨 Multi-Seller Garage Sale At Storage Facility! 🚨",
+      "address": "12241 US-181, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196459043"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-emovingoutsalepbusvjgovi5yvrx9mb9vdh",
+      "title": "Moving Out Sale!",
+      "address": "26765 Orchid Trail, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/boerne-moving-out-sale/pbUsVJGovi5yVRx9MB9vDh"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-communitygaragerfyhaf65ukptkmkzzfba8z",
+      "title": "Braunridge Community Garage Sale",
+      "address": "alsfeld near tollow way, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-braunridge-community-garage/rFYHaf65UKPTkmkZZFba8z"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-unitygaragesalei6zwyccdgpfezyewycxgdn",
+      "title": "Community Garage Sale",
+      "address": "18023 Crystal Knoll, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-community-garage-sale/i6zwyccdGPfeZyEWycxGdN"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-toniogaragesale1xy9rjuigmdhtcisoysjvq",
+      "title": "Garage Sale",
+      "address": "5858 Laurel Valley Dr near Five Palms, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-garage-sale/1xY9RjUigmdHTciSoYsJvQ"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-amilygaragesale97xryys2zgym1ymsq3rmnl",
+      "title": "Multi-Family Garage Sale",
+      "address": "5802 Grandwood Drive near Weidner Rd, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-multi-family-garage-sale/97xrYys2ZGym1YmSq3RMnL"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-nhillscommunity6np9nvg39lznd4cpuzc8n6",
+      "title": "Southern Hills Community Yard Sale",
+      "address": "Southern Bluff near Sinclair Rd, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-southern-hills-community/6NP9nvG39LzNd4cpUzC8N6"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-ergaragesaleatm2g6r4a3cchmvj9aaqkw7x",
+      "title": "🚨 MULTI-SELLER GARAGE SALE AT STORAGE FACILITY! 🚨",
+      "address": "12241 Hwy 181, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-multi-seller-garage-sale-at/m2g6r4a3CcHmvJ9aaqkw7X"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Pool Table, Honda CR-V floor mats, Jeep windows, toys",
+      "title": "Pool Table, Honda CR-V floor mats, Jeep windows, toys",
+      "address": "2401 Ayers Dr, Seguin, TX 78155",
+      "url": "https://garagesalefinder.com/s/N9b5u/2401-ayers-dr-seguin-tx-78155"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|HUGE 3 FAMILY YARD SALE BIGGEST SALE EVER!",
+      "title": "HUGE 3 FAMILY YARD SALE BIGGEST SALE EVER!",
+      "address": "217 Long Cove Dr, Cibolo, TX 78108",
+      "url": "https://garagesalefinder.com/s/N9bwM/217-long-cove-dr-cibolo-tx-78108"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Garage Sale",
+      "title": "Garage Sale",
+      "address": "52 Peach Tree Ave, Poteet, TX 78065",
+      "url": "https://garagesalefinder.com/s/N9bvw/52-peach-tree-ave-poteet-tx-78065"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-217longcovedrcibolotx-2026-11-13",
+      "title": "Huge 3 Family Yard Sale Biggest Sale Ever!",
+      "address": "217 Long Cove Dr, Cibolo, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196461255"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-saleallmustgovdwgnv8fyy9ndw2dnsljma",
+      "title": "LAST DAYs SALE, all must go! Indoors, free items",
+      "address": "E Mulberry Ave near Tendick St, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-last-days-sale-all-must-go/vDwgNV8fYy9nDw2DNSLjma"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "exn-ipcsae00231491",
+      "title": "ONE-DAY ESTATE SALE!",
+      "address": "104 Ridge Trail, San Antonio, TX 78232",
+      "url": "https://hearst-mp.ipublishmarketplace.com/marketplace/sanantonio/advert/one-day-estate-sale-general_1048"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.79000,-98.73000|Garage Sale",
+      "title": "Garage Sale",
+      "address": "8741 Buckskin Dr, Boerne, TX 78006",
+      "url": "https://garagesalefinder.com/s/N9bvK/8741-buckskin-dr-boerne-tx-78006"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-saleandbittersfhv1hba9akjn3bisj2p8n5",
+      "title": "Garage Sale - 281 and Bitters",
+      "address": "Indian Paint Brush Rd. near Susancrest, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-garage-sale-and-bitters/fhV1Hba9Akjn3BisJ2P8N5"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-esaleshadetreeqaexdiwvrdi5fz4b7rzenr",
+      "title": "Huge Garage Sale - 8919 Shade Tree - Friday & Saturday, Nov 13 & 14",
+      "address": "8919 SHADE TREE near TEZEL, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-huge-garage-sale-shade-tree/qAexdiWvRDi5fz4b7rzEnr"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.51000,-98.58000|November Semi-Annual Yard Sale-CASH PLEASE",
+      "title": "November Semi-Annual Yard Sale-CASH PLEASE",
+      "address": "4802 E Beverly Mae Dr, San Antonio, TX 78229",
+      "url": "https://garagesalefinder.com/s/N9bmk/4802-e-beverly-mae-dr-san-antonio-tx-78229"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.39000,-98.39000|Community Garage Sale",
+      "title": "Community Garage Sale",
+      "address": "5926 Cinnabar Cor, San Antonio, TX 78222",
+      "url": "https://garagesalefinder.com/s/N9blK/5926-cinnabar-cor-san-antonio-tx-78222"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.53000,-98.59000|GARAGE SALE LEON VALLEY!",
+      "title": "GARAGE SALE LEON VALLEY!",
+      "address": "7603 Linkmeadow St, San Antonio, TX 78240",
+      "url": "https://garagesalefinder.com/s/N9bGa/7603-linkmeadow-st-san-antonio-tx-78240"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.53000,-98.59000|Neighbor garage sale",
+      "title": "Neighbor garage sale",
+      "address": "7710 Linkview Dr, San Antonio, TX 78240",
+      "url": "https://garagesalefinder.com/s/N9bXx/7710-linkview-dr-san-antonio-tx-78240"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.59000,-98.47000|GARAGE SALE TOMORROW AND SATURDAY",
+      "title": "GARAGE SALE TOMORROW AND SATURDAY",
+      "address": "14306 Stoddard Dr, San Antonio, TX 78232",
+      "url": "https://garagesalefinder.com/s/N9bJm/14306-stoddard-dr-san-antonio-tx-78232"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.54000,-98.71000|Community Garage Sale Household/Christmas/ Furniture/Pokemon",
+      "title": "Community Garage Sale Household/Christmas/ Furniture/Pokemon",
+      "address": "13217 Sumara Dr, San Antonio, TX 78254",
+      "url": "https://garagesalefinder.com/s/N9bUF/13217-sumara-dr-san-antonio-tx-78254"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Yard Sale",
+      "title": "Yard Sale",
+      "address": "1037 E Live Oak Rd, Schertz, TX 78154",
+      "url": "https://garagesalefinder.com/s/N9bXF/1037-e-live-oak-rd-schertz-tx-78154"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-14306stoddarddrsanantoniotx-2026-11-13",
+      "title": "Garage Sale Tomorrow And Saturday",
+      "address": "14306 Stoddard Dr, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196461853"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-4802ebeverlymaedrsanantoniotx-2026-11-13",
+      "title": "November Semi-Annual Yard Sale-Cash Please",
+      "address": "4802 E Beverly Mae Dr, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196462087"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-7603linkmeadowstsanantoniotx-2026-11-13",
+      "title": "Leon Valley Garage Sale",
+      "address": "7603 Linkmeadow St, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196462039"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-5926cinnabarcorsanantoniotx-2026-11-14",
+      "title": "Community Garage Sale",
+      "address": "5926 Cinnabar Cor, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196461827"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.59000,-98.47000|Garage sale",
+      "title": "Garage sale",
+      "address": "1711 Searcy Dr, San Antonio, TX 78232",
+      "url": "https://garagesalefinder.com/s/N9bsx/1711-searcy-dr-san-antonio-tx-78232"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.46000,-98.58000|Garage sale",
+      "title": "Garage sale",
+      "address": "315 Oak Knoll Dr, San Antonio, TX 78228",
+      "url": "https://garagesalefinder.com/s/N9bZm/315-oak-knoll-dr-san-antonio-tx-78228"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-13217sumaradrsanantoniotx-2026-11-14",
+      "title": "Community Garage Sale Household/Christmas/ Furniture/Pokemon",
+      "address": "13217 Sumara Dr, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196462259"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-315oakknolldrsanantoniotx-2026-11-13",
+      "title": "Garage Sale",
+      "address": "315 Oak Knoll Dr, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196462597"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "eso-2473642",
+      "title": "Household Treasures & Delightful Decor in Hills & Dales!",
+      "address": "7726 Green Glen Dr, San Antonio, TX 78255",
+      "url": "https://estatesales.org/estate-sales/tx/san-antonio/78255/household-treasures-delightful-decor-in-2473642"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-7726greenglendrsanantoniotx-2026-11-14",
+      "title": "Household Treasures & Delightful Decor In Hills & Dales!",
+      "address": "7726 Green Glen Dr, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196463067"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.52000,-98.52000|Clothes Garage Sale",
+      "title": "Clothes Garage Sale",
+      "address": "1027 Morey Peak Dr, San Antonio, TX 78213",
+      "url": "https://garagesalefinder.com/s/N9but/1027-morey-peak-dr-san-antonio-tx-78213"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Huge yard sale! Home decor & collectibles",
+      "title": "Huge yard sale! Home decor & collectibles",
+      "address": "6222 Fallow Cv, San Antonio, TX 78252",
+      "url": "https://garagesalefinder.com/s/N9bbm/6222-fallow-cv-san-antonio-tx-78252"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Yard sale!! Everything must go!! Tools, household, clothes",
+      "title": "Yard sale!! Everything must go!! Tools, household, clothes",
+      "address": "121 Wind Willow, Cibolo, TX 78108",
+      "url": "https://garagesalefinder.com/s/N9bbT/121-wind-willow-cibolo-tx-78108"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.53000,-98.59000|Community yard sale",
+      "title": "Community yard sale",
+      "address": "6511 Trotter Ln, San Antonio, TX 78240",
+      "url": "https://garagesalefinder.com/s/N9bEG/6511-trotter-ln-san-antonio-tx-78240"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Yard sale rain or shine !",
+      "title": "Yard sale rain or shine !",
+      "address": "13347 Tusayan, Universal City, TX 78148",
+      "url": "https://garagesalefinder.com/s/N9bYk/13347-tusayan-universal-city-tx-78148"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Huge sale",
+      "title": "Huge sale",
+      "address": "113 Richardson Dr, Schertz, TX 78154",
+      "url": "https://garagesalefinder.com/s/N9bYw/113-richardson-dr-schertz-tx-78154"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-6511trotterlnsanantoniotx-2026-11-14",
+      "title": "Community Yard Sale",
+      "address": "6511 Trotter Ln, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196463401"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.51000,-98.67000|Garage Sale",
+      "title": "Garage Sale",
+      "address": "9322 Bowen Dr, San Antonio, TX 78250",
+      "url": "https://garagesalefinder.com/s/N9b32/9322-bowen-dr-san-antonio-tx-78250"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.70000,-98.48000|Community Wide Garage Sale!",
+      "title": "Community Wide Garage Sale!",
+      "address": "1419 Peacock Hvn, San Antonio, TX 78260",
+      "url": "https://garagesalefinder.com/s/N9brw/1419-peacock-hvn-san-antonio-tx-78260"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Fundraiser",
+      "title": "Fundraiser",
+      "address": "618 Main St, Schertz, TX 78154",
+      "url": "https://garagesalefinder.com/s/N9bAj/618-main-st-schertz-tx-78154"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-eonsaturdaynov9hhjnnsng9cgmyp7k6ax2q",
+      "title": "Garage sale  on Saturday Nov 14",
+      "address": "3406 Butterleigh near Shire Oak, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-garage-sale-on-saturday-nov/9HHJnNSng9Cgmyp7k6ax2q"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42000,-98.57000|Yard Sale",
+      "title": "Yard Sale",
+      "address": "1714 Romero, San Antonio, TX 78237",
+      "url": "https://garagesalefinder.com/s/N9byc/1714-romero-san-antonio-tx-78237"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.39000,-98.39000|Yard sale",
+      "title": "Yard sale",
+      "address": "2715 Spokane Rd, San Antonio, TX 78222",
+      "url": "https://garagesalefinder.com/s/N9b7k/2715-spokane-rd-san-antonio-tx-78222"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.53000,-98.59000|Community Garage sale",
+      "title": "Community Garage sale",
+      "address": "6518 Pecan Acres, San Antonio, TX 78240",
+      "url": "https://garagesalefinder.com/s/N9byu/6518-pecan-acres-san-antonio-tx-78240"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.70000,-98.48000|Garage Sale",
+      "title": "Garage Sale",
+      "address": "1414 Cardinal Hl, San Antonio, TX 78260",
+      "url": "https://garagesalefinder.com/s/N9bd9/1414-cardinal-hl-san-antonio-tx-78260"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Interesting Garage Sale",
+      "title": "Interesting Garage Sale",
+      "address": "1304 Belmont Dr, San Marcos, TX 78666",
+      "url": "https://garagesalefinder.com/s/N9byC/1304-belmont-dr-san-marcos-tx-78666"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-2715spokanerdsanantoniotx-2026-11-14",
+      "title": "Yard Sale",
+      "address": "2715 Spokane Rd, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196464255"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-evintageclothesqbjmfeywbnkudu7gwsduxc",
+      "title": "GARAGE SALE + VINTAGE CLOTHES DECOR EVERYTHING MUST GO 11/14",
+      "address": "5914 Lake Nacoma St near Lake Meadow, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-garage-sale-vintage-clothes/qBJmfeYwBNkUDu7GwSDUxC"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-einbrookhollowmmihhraahxfgjtjnentvjm",
+      "title": "Garage Sale in Brook Hollow",
+      "address": "13755 Brook Hollow BLVD, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-garage-sale-in-brook-hollow/mmiHHRaahXfGjtJNenTvjM"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "form-mustang-meadow-2026-11-14",
+      "title": "Community garage sale",
+      "address": "7647 Mustang Meadow, San Antonio, TX 78244",
+      "url": null
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "fb-green-arbor-2026-11-14",
+      "title": "Last minute garage sale",
+      "address": "10623 Green Arbor St, San Antonio, TX 78223",
+      "url": "https://www.facebook.com/groups/1978450629018282/permalink/3248620165334649/"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "fb-lynwood-branch-2026-11-14",
+      "title": "Everything must go - final sale",
+      "address": "10346 Lynwood Branch #102, San Antonio, TX 78245",
+      "url": "https://www.facebook.com/groups/388018294324151/permalink/1022975467495094/"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "fb-hilltop-crossing-2026-11-14",
+      "title": "Huge moving yard sale",
+      "address": "9206 Hilltop Crossing Dr, San Antonio, TX 78251",
+      "url": "https://www.facebook.com/groups/388018294324151/permalink/1023028497489791/"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "fb-wilby-lane-2026-11-14",
+      "title": "Stockpile garage sale",
+      "address": "2006 Wilby Lane, San Antonio, TX 78253",
+      "url": "https://www.facebook.com/groups/489187361218586/permalink/4140346619435957/"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "fb-pyrite-cyn-2026-11-14",
+      "title": "Community garage sale",
+      "address": "5003 Pyrite Cyn, San Antonio, TX 78253",
+      "url": "https://www.facebook.com/groups/489187361218586/permalink/4140176219452997/"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "nextdoor-mirecourt-2026-11-15",
+      "title": "Guilbeau Park Community Yard Sale",
+      "address": "9115 Mirecourt, San Antonio, TX 78250",
+      "url": "https://nextdoor.com/p/wHyKky96qydt?view=detail"
+    },
+    {
+      "reason": "inactive_status",
+      "input_file": "san-antonio.json",
+      "id": "eso-2471905",
+      "title": "The Analog Age: Vintage Tech Treasures - Bidding EXTENDED TO 11/22 @ 7PM!",
+      "address": "San Antonio, TX 78240",
+      "url": "https://estatesales.org/estate-sales/tx/san-antonio/78240/the-analog-age-vintage-tech-2471905"
+    },
+    {
+      "reason": "inactive_status",
+      "input_file": "san-antonio.json",
+      "id": "eso-2472501",
+      "title": "History Meets Holiday: Vintage Gems, Christmas Memories, Coins & Silver in Fair Oaks, TX.",
+      "address": "Boerne, TX 78015",
+      "url": "https://estatesales.org/estate-sales/tx/boerne/78015/history-meets-holiday-vintage-gems-2472501"
+    },
+    {
+      "reason": "inactive_status",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Vintage Collectibles: Decor, Tableware, & More Online Auction by Caring Transitions - Ends 11/19!",
+      "title": "Vintage Collectibles: Decor, Tableware, & More Online Auction by Caring Transitions - Ends 11/19!",
+      "address": "New Braunfels, TX 78132",
+      "url": "https://garagesalefinder.com/s/N92QC/new-braunfels-tx-78132"
+    },
+    {
+      "reason": "inactive_status",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Little Bit of Everything in San Marcos",
+      "title": "Little Bit of Everything in San Marcos",
+      "address": "San Marcos, TX 78666",
+      "url": "https://garagesalefinder.com/s/N9bzK/san-marcos-tx-78666"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-6222fallowcvsanantoniotx-2026-11-14",
+      "title": "Huge Yard Sale! Home Decor & Collectibles",
+      "address": "6222 Fallow Cv, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196463155"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-tonioestatesaledagtu15b2ww91r5g74z4nu",
+      "title": "Estate Sale",
+      "address": "14000 Wenrich, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-estate-sale/daGtu15b2ww91R5G74z4nU"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "29.42410,-98.49360|Good Goods an INSIDE SALE!!",
+      "title": "Good Goods an INSIDE SALE!!",
+      "address": "113 Black Walnut, Schertz, TX 78154",
+      "url": "https://garagesalefinder.com/s/N92ZY/113-black-walnut-schertz-tx-78154"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-113blackwalnutschertztx-2026-11-19",
+      "title": "Good Goods An Inside Sale!!",
+      "address": "113 Black Walnut, Schertz, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196458773"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-omemovinggaragevouw6hpqpafmm57azt7tpe",
+      "title": "Awesome moving garage Sale Today and all week NICE designer purses clothes shoes",
+      "address": "8657 pitner rd Apt B104 gate code 8657# near Huffmiester, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/spring-branch-awesome-moving-garage/voUW6HpQPafmM57AZT7tPe"
+    },
+    {
+      "reason": "auction_not_in_person_sale",
+      "input_file": "san-antonio.json",
+      "id": "cl-oysstoreclosing2vbwg4e2hatbrlzaiiqstb",
+      "title": "AUCTION - Leroy's Store Closing - Wednesday Night 11/18/26 @ 7pm",
+      "address": "1927 W Kingsbury Rd, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/seguin-auction-leroys-store-closing/2vBWg4e2haTBRLzaiiQSTb"
+    },
+    {
+      "reason": "inactive_status",
+      "input_file": "san-antonio.json",
+      "id": "eso-2474294",
+      "title": "Cross Mtn Ranch Estate Auction",
+      "address": "S PASS RD , San Antonio, TX 78255",
+      "url": "https://estatesales.org/estate-sales/tx/san-antonio/78255/cross-mtn-ranch-estate-auction-2474294"
+    },
+    {
+      "reason": "appointment_or_retail",
+      "input_file": "san-antonio.json",
+      "id": "cl-forcashsaturdayvlu1ho2zo9m6lhsw1jjczg",
+      "title": "Deals for cash Saturday November 21st",
+      "address": "Austin Hwy, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-deals-for-cash-saturday/vLu1Ho2Zo9M6LHSw1JJczG"
+    },
+    {
+      "reason": "appointment_or_retail",
+      "input_file": "san-antonio.json",
+      "id": "cl-ingnovember19thsexb2dydvsvnze7wmmarqp",
+      "title": "OPEN & selling November 19th 20th",
+      "address": "1254 Austin Hwy, San Antonio, TX",
+      "url": "https://www.craigslist.org/view/d/san-antonio-open-selling-november-19th/sExB2DYDVsvNZe7wmMARQP"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "eso-2474531",
+      "title": "Remaining Estate Sale Items",
+      "address": "319 Hyacinth Ln, San Antonio, TX 78260",
+      "url": "https://estatesales.org/estate-sales/tx/san-antonio/78260/remaining-estate-sale-items-2474531"
+    },
+    {
+      "reason": "past_sale",
+      "input_file": "san-antonio.json",
+      "id": "yss-319hyacinthlnsanantoniotx-2026-11-19",
+      "title": "Remaining Estate Sale Items",
+      "address": "319 Hyacinth Ln, San Antonio, TX",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196466757"
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.55630,-98.36044|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "6435 KESTREL LANE, San Antonio, TX 78233",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.54121,-98.62163|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "10446 COUNTRY BLUFF, San Antonio, TX 78240",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.52529,-98.63039|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "8830 THATCH, San Antonio, TX 78240",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.51094,-98.65658|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "7402 WINTER SKY, San Antonio, TX 78250",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.65363,-98.62875|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "22803 STEEPLE VIEW, San Antonio, TX 78256",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.40860,-98.45114|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "431 VINE ST, San Antonio, TX 78210",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.52528,-98.63060|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "8834 THATCH, San Antonio, TX 78240",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.39129,-98.46702|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "1619 STEVES AVE, San Antonio, TX 78210",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.53145,-98.43726|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3131 SATELLITE, San Antonio, TX 78217",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.36970,-98.55168|2483 SOUTHCROSS BLVD",
+      "title": "2483 SOUTHCROSS BLVD",
+      "address": "2483 W SOUTHCROSS BLVD, San Antonio, TX 78211",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.48346,-98.64498|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "7859 LARK RIDGE, San Antonio, TX 78250",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.41406,-98.64644|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "8018 QUIRT DR, San Antonio, TX 78227",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.53862,-98.56088|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3630 RICHWOOD, San Antonio, TX 78230",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.58608,-98.63867|City-permitted estate sale",
+      "title": "City-permitted estate sale",
+      "address": "7726 GREEN GLEN, San Antonio, TX 78255",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.62626,-98.45613|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "1703 ENCINO ROCK, San Antonio, TX 78259",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.53118,-98.43358|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "9718 TITAN DR, San Antonio, TX 78217",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.53346,-98.43918|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3119 MAYFAIR DR, San Antonio, TX 78217",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.62961,-98.48788|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "18027 SUMMER KNOLL, San Antonio, TX 78258",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.48029,-98.52686|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "719 GARDINA, San Antonio, TX 78201",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.38172,-98.36712|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "6326 LAKE VICTORIA, San Antonio, TX 78222",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.57419,-98.65921|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "8831 GUSTINE DR, San Antonio, TX 78023",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.62891,-98.48896|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "919 IMPALA, San Antonio, TX 78258",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.48792,-98.34730|City-permitted estate sale",
+      "title": "City-permitted estate sale",
+      "address": "7222 SUNSET TERRACE, San Antonio, TX 78244",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.47325,-98.54450|139 SUNSHINE DR",
+      "title": "139 SUNSHINE DR",
+      "address": "139 E SUNSHINE DR, San Antonio, TX 78228",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.52987,-98.43419|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3238 LEYTE, San Antonio, TX 78217",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.64117,-98.49374|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "25043 ARROW GLEN, San Antonio, TX 78258",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.44065,-98.67390|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "9519 MULBERRY PATH, San Antonio, TX 78251",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.38515,-98.53171|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "634 HOOVER AVE, San Antonio, TX 78225",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.39682,-98.38697|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "2435 BERMUDA, San Antonio, TX 78222",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.58678,-98.36426|Rhonda M. Greeness",
+      "title": "Rhonda M. Greeness",
+      "address": "16507 TWIN FOX, San Antonio, TX 78247",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.58930,-98.40821|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "4258 BIRCH TREE, San Antonio, TX 78247",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.47127,-98.50262|City-permitted estate sale",
+      "title": "City-permitted estate sale",
+      "address": "622 SANTA MONICA, San Antonio, TX 78212",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.53650,-98.66880|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "10002 PASSION ELM PLACE, San Antonio, TX 78254",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.50163,-98.48840|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "351 SHARON DR, San Antonio, TX 78216",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.47343,-98.54623|211 SUNSHINE DR",
+      "title": "211 SUNSHINE DR",
+      "address": "211 E SUNSHINE DR, San Antonio, TX 78228",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.52891,-98.43534|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3222 JOHN GLENN, San Antonio, TX 78217",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.56349,-98.49335|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "13787 BLUFF VILLAS COURT, San Antonio, TX 78216",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.49012,-98.59180|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "6402 HONEY Hl, San Antonio, TX 78229",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.38111,-98.39847|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "4750 ALMA, San Antonio, TX 78222",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.54768,-98.62909|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "11315 SPRING RAIN DR, San Antonio, TX 78249",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.55806,-98.47538|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "13118 BLANCHE COKER, San Antonio, TX 78216",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.61202,-98.43074|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "18302 EMERALD FOREST DR, San Antonio, TX 78259",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.51124,-98.68106|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "9815 HAWKWOOD, San Antonio, TX 78250",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.38848,-98.55968|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "402 GILLMORE AVE, San Antonio, TX 78226",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.53637,-98.50955|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "1027 MOREY PEAK, San Antonio, TX 78213",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.57153,-98.46511|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "1707 ASHLEY CIRCLE, San Antonio, TX 78232",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.35910,-98.59916|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "5203 OLD PEARSALL RD, San Antonio, TX 78242",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.37082,-98.52886|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "1407 FITCH ST, San Antonio, TX 78211",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.50542,-98.70085|7109 1604",
+      "title": "7109 1604",
+      "address": "7109 W 1604 N, San Antonio, TX 78254",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.43299,-98.67749|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "10038 APACHE VILLAGE, San Antonio, TX 78245",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "address|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "21619 Longwood",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.53123,-98.44479|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "10218 WILLOWICK, San Antonio, TX 78217",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.36340,-98.52917|1439 PYRON AVE",
+      "title": "1439 PYRON AVE",
+      "address": "1439 W PYRON AVE, San Antonio, TX 78211",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.36906,-98.55434|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "2541 W SOUTHCROSS BLVD, San Antonio, TX 78211",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.51580,-98.67876|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "9322 BOWEN DR, San Antonio, TX 78250",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.58183,-98.43601|15247 Fall Haven DR",
+      "title": "15247 Fall Haven DR",
+      "address": "15247 fall haven DR, San Antonio, TX 78247",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.45650,-98.48293|Gina G. Munoz",
+      "title": "Gina G. Munoz",
+      "address": "608 E E MULBERRY AVE, San Antonio, TX 78212",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.32976,-98.48394|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "9207 COMARCA, San Antonio, TX 78214",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.56749,-98.46657|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "1811 INDIAN PAINTBRUSH RD, San Antonio, TX 78232",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.48360,-98.57537|City-permitted estate sale",
+      "title": "City-permitted estate sale",
+      "address": "4621 HOLLYRIDGE, San Antonio, TX 78228",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.57023,-98.67181|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "9510 CREEK COVE, San Antonio, TX 78023",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.57184,-98.63737|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "7607 DUSTY DIAMOND, San Antonio, TX 78249",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.42913,-98.52524|2719 HOUSTON ST",
+      "title": "2719 HOUSTON ST",
+      "address": "2719 W HOUSTON ST, San Antonio, TX 78207",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.35038,-98.51353|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "622 CLOVIS PLACE, San Antonio, TX 78221",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.34870,-98.41639|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3918 INVIERNO, San Antonio, TX 78223",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.36622,-98.53160|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "618 VICKERS AVE, San Antonio, TX 78211",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.52660,-98.45365|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "111 EASTLEY, San Antonio, TX 78217",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.44792,-98.59869|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "5800 CULEBRA RD, San Antonio, TX 78228",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.30132,-98.48949|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "711 PELICAN BEACH, San Antonio, TX 78221",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.54130,-98.55888|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3519 KNOTTYASH, San Antonio, TX 78230",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.47081,-98.66379|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "8835 STAR CRk DR, San Antonio, TX 78251",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.59121,-98.37228|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "16319 ELK HOLLOW ST, San Antonio, TX 78247",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.44060,-98.48911|615 EUCLID AVE",
+      "title": "615 EUCLID AVE",
+      "address": "615 E EUCLID AVE, San Antonio, TX 78212",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.34532,-98.41937|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3627 SECO TIERRA, San Antonio, TX 78223",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.57719,-98.57071|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "4323 FIG TREE WOODS, San Antonio, TX 78249",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.41742,-98.64386|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "7826 MARBACH RD, San Antonio, TX 78227",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.43762,-98.67017|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "9422 SANTA FE RIDGE, San Antonio, TX 78245",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.44519,-98.69354|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "1131 CORAL BAY, San Antonio, TX 78251",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.53759,-98.67051|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "9510 SUMMERBROOK, San Antonio, TX 78254",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.46918,-98.37616|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "5718 THREE SPRINGS DR, San Antonio, TX 78244",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.54772,-98.69736|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "11219 BLUE FAX FIELD, San Antonio, TX 78023",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.52549,-98.65901|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "8619 BOUTRY HEIGHTS, San Antonio, TX 78254",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.53281,-98.44310|Minerva Stellema",
+      "title": "Minerva Stellema",
+      "address": "10303 SEVERN, San Antonio, TX 78217",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.53393,-98.66952|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "9502 SHADOWBROOK, San Antonio, TX 78254",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.36432,-98.49456|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "6025 S FLORES ST, San Antonio, TX 78214",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.35369,-98.41872|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3915 CAMPO SECO, San Antonio, TX 78223",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.55522,-98.60895|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "11915 BRIARPATH, San Antonio, TX 78249",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.50937,-98.67542|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "9635 DOVER RIDGE, San Antonio, TX 78250",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.47912,-98.67215|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "4943 BRIANNA PLACE, San Antonio, TX 78251",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.52410,-98.49227|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "222 COLWYN PASS, San Antonio, TX 78216",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.39420,-98.37090|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "6011 LAKEFRONT, San Antonio, TX 78222",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.30420,-98.48601|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "811 LEE TREVINO, San Antonio, TX 78221",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.34275,-98.49236|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "334 CREATH PLACE, San Antonio, TX 78221",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.38382,-98.44725|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3914 BREMEN AVE, San Antonio, TX 78210",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "address|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "3922 Briarcrest ST",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.35275,-98.41514|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "4042 BUR OAK PATH, San Antonio, TX 78223",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.40979,-98.49538|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "1414 S ALAMO ST, San Antonio, TX 78210",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.56806,-98.56575|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "13303 BOW HEIGHTS DR, San Antonio, TX 78230",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.32909,-98.42147|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "429 SLIGO ST, San Antonio, TX 78223",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.29296,-98.48527|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "12043 PEWEE, San Antonio, TX 78221",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.40058,-98.39142|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "5054 STONELEIGH DR, San Antonio, TX 78220",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "address|1315 Driver LN",
+      "title": "1315 Driver LN",
+      "address": "1315",
+      "url": null
+    },
+    {
+      "reason": "unconfirmed_permit",
+      "input_file": "san-antonio.json",
+      "id": "29.44792,-98.59869|City-permitted garage sale",
+      "title": "City-permitted garage sale",
+      "address": "5800 CULEBRA RD, San Antonio, TX 78228",
+      "url": null
+    }
+  ],
+  "merged": [
+    {
+      "kept": "eso-2472776",
+      "address": "12503 Sandy Dunes, San Antonio, TX 78253",
+      "merged_records": 2,
+      "source_urls": [
+        "https://estatesales.org/estate-sales/tx/san-antonio/78253/alamo-ranch-estate-sale-2472776",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196458881"
+      ],
+      "titles": [
+        "Alamo Ranch Estate Sale",
+        "Alamo Ranch Estate Sale"
+      ]
+    },
+    {
+      "kept": "eso-2474847",
+      "address": "14000 Wenrich , Universal City, TX 78233",
+      "merged_records": 2,
+      "source_urls": [
+        "https://estatesales.org/estate-sales/tx/live-oak-/78233/the-final-two-days-3050-2474847",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196468769"
+      ],
+      "titles": [
+        "The Final Two Days!! 30%-50% Off!!!",
+        "THE FINAL TWO DAYS!! 30%-50% OFF!!!"
+      ]
+    },
+    {
+      "kept": "yss-21914hardyoakblvdsanantoniotx-2026-11-19",
+      "address": "21914 Hardy Oak Blvd, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9bVj/21914-hardy-oak-blvd-san-antonio-tx-78258",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196462949"
+      ],
+      "titles": [
+        "Moving sale Stone Oak",
+        "Moving Sale Stone Oak"
+      ]
+    },
+    {
+      "kept": "yss-2081pecangablenewbraunfelstx-2026-11-21",
+      "address": "2081 Pecan Gable, New Braunfels, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9uvu/2081-pecan-gable-new-braunfels-tx-78130",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196465207"
+      ],
+      "titles": [
+        "Christmas On Pecan Gable",
+        "Christmas on Pecan Gable"
+      ]
+    },
+    {
+      "kept": "yss-2459rimoaksanantoniotx-2026-11-21",
+      "address": "2459 Rim Oak, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9ugu/2459-rim-oak-san-antonio-tx-78232",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196465281"
+      ],
+      "titles": [
+        "Garage Sale! Vintage Tools! 21 & 22 Nov 8Am-4Pm 2459 Rim Oak",
+        "Garage Sale! Vintage Tools! 21 & 22 Nov 8am-4pm 2459 Rim Oak"
+      ]
+    },
+    {
+      "kept": "yss-25606mesarnchsanantoniotx-2026-11-21",
+      "address": "25606 Mesa Rnch, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9utC/25606-mesa-rnch-san-antonio-tx-78258",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196465595"
+      ],
+      "titles": [
+        "Multifamily Garage Sale",
+        "MULTIFAMILY GARAGE SALE"
+      ]
+    },
+    {
+      "kept": "yss-23020craftyrdgsanantoniotx-2026-11-21",
+      "address": "23020 Crafty Rdg, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9upj/23020-crafty-rdg-san-antonio-tx-78255",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196465555"
+      ],
+      "titles": [
+        "Yard Sale",
+        "YARD SALE"
+      ]
+    },
+    {
+      "kept": "yss-1407cantrelldrsanantoniotx-2026-11-19",
+      "address": "1407 Cantrell Dr, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9uSu/1407-cantrell-dr-san-antonio-tx-78221",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196465903"
+      ],
+      "titles": [
+        "Multiple Family Sale",
+        "Multiple Family Sale"
+      ]
+    },
+    {
+      "kept": "yss-10223southcreekconversetx-2026-11-20",
+      "address": "10223 Southcreek, Converse, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9uzc/10223-southcreek-converse-tx-78109",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196466313"
+      ],
+      "titles": [
+        "Garage Sale",
+        "Garage Sale"
+      ]
+    },
+    {
+      "kept": "yss-9014timberpathsanantoniotx-2026-11-21",
+      "address": "9014 Timber Path, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9ubJ/9014-timber-path-san-antonio-tx-78250",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196466999"
+      ],
+      "titles": [
+        "The Great Northwest Fall Community Yard Sale",
+        "The Great Northwest Fall Community Yard Sale"
+      ]
+    },
+    {
+      "kept": "yss-4306valleyfielddrsanantoniotx-2026-11-20",
+      "address": "4306 Valleyfield Dr, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9ubn/4306-valleyfield-dr-san-antonio-tx-78222",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196467033"
+      ],
+      "titles": [
+        "Fall Garage Sale",
+        "Fall Garage Sale"
+      ]
+    },
+    {
+      "kept": "yss-22234pelicanedgesanantoniotx-2026-11-20",
+      "address": "22234 Pelican Edge, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9u2r/22234-pelican-edge-san-antonio-tx-78258",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196466967"
+      ],
+      "titles": [
+        "Big Pre-Move Garage Sale Blowout - Many $1 Items",
+        "Big Pre-Move Garage Sale Blowout - Many $1 Items"
+      ]
+    },
+    {
+      "kept": "yss-13458elmiradorstsanantoniotx-2026-11-21",
+      "address": "13458 El Mirador St, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9uQ9/13458-el-mirador-st-san-antonio-tx-78233",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196467393"
+      ],
+      "titles": [
+        "Bills Don't Take Holidays Yard Sale",
+        "Bills Don't Take Holidays Yard Sale"
+      ]
+    },
+    {
+      "kept": "yss-14934oaksmtsanantoniotx-2026-11-21",
+      "address": "14934 Oak Smt, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9uCe/14934-oak-smt-san-antonio-tx-78232",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196467243"
+      ],
+      "titles": [
+        "Holidays Garage Sale",
+        "HOLIDAYS GARAGE SALE"
+      ]
+    },
+    {
+      "kept": "yss-6707springrosedrsanantoniotx-2026-11-20",
+      "address": "6707 Spring Rose Dr, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9unC/6707-spring-rose-dr-san-antonio-tx-78249",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196467837"
+      ],
+      "titles": [
+        "Fabulous Fall Yard Sale/Cash/Cashapp",
+        "FABULOUS FALL YARD SALE/CASH/CASHAPP"
+      ]
+    },
+    {
+      "kept": "yss-210royaloaksdrsanantoniotx-2026-11-20",
+      "address": "210 Royal Oaks Dr, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9uan/210-royal-oaks-dr-san-antonio-tx-78209",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196467973"
+      ],
+      "titles": [
+        "Moving Sale",
+        "Moving sale"
+      ]
+    },
+    {
+      "kept": "yss-330waysidedrsanantoniotx-2026-11-20",
+      "address": "330 Wayside Dr, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9u3v/330-wayside-dr-san-antonio-tx-78213",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196467495"
+      ],
+      "titles": [
+        "Yard Sale",
+        "Yard Sale"
+      ]
+    },
+    {
+      "kept": "eso-2474765",
+      "address": "310 Eugene Sasser, San Antonio, TX 78260",
+      "merged_records": 2,
+      "source_urls": [
+        "https://estatesales.org/estate-sales/tx/san-antonio/78260/estate-sale-2474765",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196468113"
+      ],
+      "titles": [
+        "Estate Sale",
+        "Estate sale"
+      ]
+    },
+    {
+      "kept": "yss-6381mondeanstsanantoniotx-2026-11-20",
+      "address": "6381 Mondean St, San Antonio, TX",
+      "merged_records": 3,
+      "source_urls": [
+        "https://estatesales.org/estate-sales/tx/san-antonio/78240/walking-in-a-vintage-wonderland-2472746",
+        "https://garagesalefinder.com/s/N92ZL/6381-mondean-st-san-antonio-tx-78240",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196458795"
+      ],
+      "titles": [
+        "Walking In A Vintage Wonderland Flash Sale",
+        "Walking in a Vintage Wonderland Flash Sale",
+        "Walking in a Vintage Wonderland Flash Sale"
+      ]
+    },
+    {
+      "kept": "yss-6634conniemackstsanantoniotx-2026-11-20",
+      "address": "6634 Connie Mack St, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9uWr/6634-connie-mack-st-san-antonio-tx-78240",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196468283"
+      ],
+      "titles": [
+        "Huge Multi-Family Garage Sale",
+        "Huge Multi-Family Garage Sale"
+      ]
+    },
+    {
+      "kept": "yss-5840royalrdgsanantoniotx-2026-11-20",
+      "address": "5840 Royal Rdg, San Antonio, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9u8K/5840-royal-rdg-san-antonio-tx-78239",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196468543"
+      ],
+      "titles": [
+        "Christmas Village Enthusiasts    In Time For Christmas. !!!!!",
+        "CHRISTMAS VILLAGE ENTHUSIASTS IN TIME FOR CHRISTMAS. !!!!!"
+      ]
+    },
+    {
+      "kept": "yss-7714averyrdliveoaktx-2026-11-21",
+      "address": "7714 Avery Rd, Live Oak, TX",
+      "merged_records": 2,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9ifK/7714-avery-rd-live-oak-tx-78233",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196468665"
+      ],
+      "titles": [
+        "Beautiful Things Garage Sale",
+        "Beautiful Things Garage Sale"
+      ]
+    },
+    {
+      "kept": "gsf-email-9514creekcv-2026-11-21",
+      "address": "9514 CREEK CV, HELOTES, TX, 78023",
+      "merged_records": 3,
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9umC/9514-creek-cv-helotes-tx-78023",
+        "https://www.garagesalefinder.com/",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196465967"
+      ],
+      "titles": [
+        "Garage Sale — Helotes",
+        "Garage Sale",
+        "Garage sale"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Contact: https://github.com/Justonejewelry/Chicas-Map/security/advisories/new
+Contact: https://www.facebook.com/Justone.Jewelry.Justin/
+Expires: 2027-08-24T00:00:00.00Z
+Preferred-Languages: en, es
+Canonical: https://www.chicasmap.com/.well-known/security.txt
+Policy: https://www.chicasmap.com/legal
+Acknowledgments: https://www.chicasmap.com/humans.txt
+Hiring: https://www.chicasmap.com/sponsors

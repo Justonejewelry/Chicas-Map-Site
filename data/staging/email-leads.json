@@ -1,0 +1,56 @@
+{
+  "target_date": "2026-11-19",
+  "source": "Email:GarageSaleFinder",
+  "net_new_staged": 4,
+  "leads": [
+    {
+      "title": "The Great Northwest Fall Community Yard Sale",
+      "street_address": "9014 Timber Path, San Antonio, TX 78250",
+      "dates": ["2026-11-21"],
+      "hours": "9 AM to 3 PM",
+      "source": "Email:GarageSaleFinder",
+      "notes": "Over 90 vendors at Silver Creek Soccer Fields. Food and drink trucks.",
+      "lat": null,
+      "lon": null,
+      "accuracy": "pending_geocode",
+      "confidence": 0.75
+    },
+    {
+      "title": "Big Pre-Move Garage Sale Blowout - Many $1 Items",
+      "street_address": "22234 Pelican Edge, San Antonio, TX 78258",
+      "dates": ["2026-11-20", "2026-11-21"],
+      "hours": null,
+      "source": "Email:GarageSaleFinder",
+      "notes": "Hundreds of high quality items. Clothes, shoes, kitchen, household, books, garden.",
+      "lat": null,
+      "lon": null,
+      "accuracy": "pending_geocode",
+      "confidence": 0.75
+    },
+    {
+      "title": "Fall Garage Sale",
+      "street_address": "4306 Valleyfield Dr, San Antonio, TX 78222",
+      "dates": ["2026-11-20", "2026-11-21"],
+      "hours": null,
+      "source": "Email:GarageSaleFinder",
+      "notes": "Stove, under cabinet microwave, kitchen items, twin bed frame, bathroom vanity, more.",
+      "lat": null,
+      "lon": null,
+      "accuracy": "pending_geocode",
+      "confidence": 0.75
+    },
+    {
+      "title": "Remaining Estate Sale Items",
+      "street_address": "319 Hyacinth Ln, San Antonio, TX 78260",
+      "dates": ["2026-11-19"],
+      "hours": null,
+      "source": "Email:GarageSaleFinder",
+      "notes": "Remaining items from estate sale. Deep discounts. Everything must go! One day only.",
+      "lat": null,
+      "lon": null,
+      "accuracy": "pending_geocode",
+      "confidence": 0.75
+    }
+  ],
+  "notes": "Staged because chica-daily.yml run 44513405586 is in_progress. Do not commit to CITY_FILE until populate completes to avoid race."
+}
