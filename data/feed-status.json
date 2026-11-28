@@ -1,0 +1,12 @@
+{
+  "city": "san-antonio",
+  "date": "2026-11-26",
+  "last_refresh": "2026-11-26T14:07:58-06:00",
+  "edition": "2026-11-01 special: Montrose Market — Chica appearance",
+  "canonical_feed": "data/cities/san-antonio.json",
+  "delta_feed": "data/cities/san-antonio-user.json",
+  "note": "Pointer refreshed 2026-11-27. Live counts in san-antonio.json. Scraper overall degraded (gsalr + yardsales_net HTTP 403). Primary sources healthy.",
+  "status": "live",
+  "public_count": 230,
+  "live_as_of_2026-11-27": 31
+}

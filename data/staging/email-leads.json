@@ -1,0 +1,36 @@
+{
+  "target_date": "2026-11-28",
+  "source": "Email:Nextdoor (Pepper supplement)",
+  "net_new_staged": 1,
+  "incomplete_held": 1,
+  "rejected": 3,
+  "leads": [
+    {
+      "title": "Garage sale — Broad Oak Trail",
+      "street_address": "24802 Broad Oak Trail, Stage Coach Hills, San Antonio, TX 78255",
+      "dates": ["2026-11-28"],
+      "hours": "9 AM–1 PM",
+      "source": "Email:Nextdoor",
+      "source_url": "https://nextdoor.com/p/Kn9NhqgthgBG",
+      "notes": "Items from flyer: couch, glider, desk, TVs, bedding, shoes, clothing. No comments.",
+      "lat": 29.6739,
+      "lon": -98.6598,
+      "accuracy": "approximate",
+      "confidence": 0.80
+    },
+    {
+      "title": "Community yard sale — Waterwheel / Bridgewood",
+      "street_address": "Waterwheel, off Culebra and Landa Falls, San Antonio, TX (no specific street address)",
+      "dates": ["2026-11-28"],
+      "hours": "starting 8:00 AM",
+      "source": "Email:Nextdoor",
+      "source_url": "https://nextdoor.com/p/-kPnYgJr2WHX",
+      "notes": "No items listed. Commenter asked for nearby address; no reply. Likely same as morning Facebook listing. Held below confidence floor.",
+      "lat": null,
+      "lon": null,
+      "accuracy": "none",
+      "confidence": 0.60
+    }
+  ],
+  "notes": "From Nextdoor supplement email (Sat ~4:45 AM). Broad Oak is Greater SA (Stage Coach Hills / 78255). Waterwheel incomplete (no street). Vida community (ambiguous date, no address), Brandy Carson moving (DM-only address), Sandy Hernz (unconfirmed date/address) rejected. Arrowhead Trail (1023) and Tuxford Groovy already in muse-leads-2026-11-27 staging; comment updates noted but no new fields. Schema absent. City file not written this pass."
+}

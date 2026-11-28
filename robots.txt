@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /preview/
+Disallow: /__grok/
+Disallow: /mission-control/
+
+# Alias HTML files canonicalize to slash URLs. Keep them fetchable.
+
+Sitemap: https://www.chicasmap.com/sitemap.xml
+Sitemap: https://www.chicasmap.com/sitemap-video.xml

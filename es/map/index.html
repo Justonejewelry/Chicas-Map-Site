@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><meta data-chica-seo="1" name="robots" content="index,follow,max-image-preview:large"/><link rel="canonical" href="https://www.chicasmap.com/es/map/"/><meta property="og:type" content="website"/><meta property="og:site_name" content="Chicas Map"/><meta property="og:locale" content="es_US"/><meta property="og:title" content="Mapa en vivo · Chicas Map San Antonio"/><meta property="og:description" content="Mapa en vivo de ventas de garage en San Antonio. Pines, Cerca de mi, capas KEY, y rutas en Google, Apple o Waze."/><meta property="og:url" content="https://www.chicasmap.com/es/map/"/><meta property="og:image" content="https://www.chicasmap.com/og.jpg"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Mapa en vivo · Chicas Map San Antonio"/><meta name="twitter:description" content="Mapa en vivo de ventas de garage en San Antonio. Pines, Cerca de mi, capas KEY, y rutas en Google, Apple o Waze."/><meta name="twitter:image" content="https://www.chicasmap.com/og.jpg"/><meta name="description" content="Mapa en vivo de ventas de garage en San Antonio. Pines, Cerca de mi, capas KEY, y rutas en Google, Apple o Waze."/><title>Mapa en vivo · Chicas Map San Antonio</title><link rel="alternate" hreflang="en" href="https://www.chicasmap.com/map/"/><link rel="alternate" hreflang="es" href="https://www.chicasmap.com/es/map/"/><link rel="alternate" hreflang="x-default" href="https://www.chicasmap.com/map/"/><link rel="author" href="/humans.txt"/><link rel="icon" href="/favicon.ico" sizes="any"/><link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="referrer" content="origin" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="manifest" href="/__grok/manifest.webmanifest" />
+  <link rel="preconnect" href="https://api.maptiler.com" />
+  <link rel="preconnect" href="https://server.arcgisonline.com" />
+  <link rel="stylesheet" href="/vendor/leaflet-1.9.4/leaflet.css" />
+  <style>
+    html, body { margin: 0; width: 100vw; height: 100vh; height: 100dvh; background: #121212; overflow: hidden; font-family: Inter, system-ui, sans-serif; }
+    #chica-live-map, .leaflet-container { position: fixed; inset: 0; width: 100vw !important; height: 100vh !important; height: 100dvh !important; z-index: 1; background: #121212; }
+    /* Hidden: chica-menu.js provides the left-logo menu. A visible #chica-mini sits above the search bar. */
+    #chica-mini { display: none !important; }
+    #chica-mini summary { list-style: none; height: 44px; padding: 0 14px; border-radius: 12px; background: #c513af; color: #fff; font: 800 13px/44px Inter, system-ui, sans-serif; border: 1px solid #8d0c7c; cursor: pointer; }
+    #chica-mini summary::-webkit-details-marker { display: none; }
+    #chica-mini nav { position: absolute; right: 0; top: 48px; min-width: 188px; background: #1a1714f5; border: 1px solid #3a342e; border-radius: 12px; padding: 6px; display: flex; flex-direction: column; gap: 4px; }
+    #chica-mini a { display: block; min-height: 44px; padding: 12px; border-radius: 10px; color: #f3eee4; text-decoration: none; font: 700 14px/20px Inter, system-ui, sans-serif; }
+    #chica-mini a.play { background: #c513af; color: #fff; }
+    .leaflet-control-zoom { margin-bottom: 92px !important; }
+    #chica-crawl { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+    #chica-map-boot {
+      position: fixed; inset: 0; z-index: 2147483000;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      gap: 14px; padding-top: env(safe-area-inset-top); background: #121212; color: #f3eee4; pointer-events: none;
+      transition: opacity .28s ease;
+    }
+    #chica-map-boot.is-done { opacity: 0; }
+    #chica-map-boot .dot {
+      width: 28px; height: 28px; border-radius: 50%;
+      background: #c513af; box-shadow: 0 0 0 8px #c513af33;
+      animation: chica-boot-pulse 1.1s ease-out infinite;
+    }
+    #chica-map-boot .copy { font: 800 15px/1.2 Inter, system-ui, sans-serif; letter-spacing: .02em; }
+    #chica-map-boot .sub { font: 500 12px/1.3 Inter, system-ui, sans-serif; color: #b8b0a4; }
+    @keyframes chica-boot-pulse {
+      0% { transform: scale(.85); box-shadow: 0 0 0 4px #c513af55; }
+      100% { transform: scale(1); box-shadow: 0 0 0 16px #c513af00; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      #chica-map-boot .dot { animation: none; }
+      #chica-map-boot { transition: none; }
+    }
+  </style>
+  <link rel="stylesheet" href="/css/finish.css?v=20261118a" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.chicasmap.com/#website","name":"Chicas Map","url":"https://www.chicasmap.com/","inLanguage":["en","es"],"description":"Open the live San Antonio garage sale map. Verified pins, Near Me, KEY layers, and one-tap Google, Apple, or Waze routes.","publisher":{"@id":"https://www.chicasmap.com/#org"}},{"@type":"Organization","@id":"https://www.chicasmap.com/#org","name":"Chicas Map","url":"https://www.chicasmap.com/","logo":"https://www.chicasmap.com/images/chica-logo.png"},{"@type":"WebApplication","name":"Chicas Map","url":"https://www.chicasmap.com/es/map/","applicationCategory":"LifestyleApplication","operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"areaServed":"San Antonio, Texas"}]}</script><style id="map-seo-css">#map-seo{position:fixed;right:10px;bottom:216px;z-index:900;font:14px/1.45 Inter,system-ui,sans-serif;color:#1a1714}#map-seo>summary{list-style:none;cursor:pointer;min-height:44px;padding:0 14px;border-radius:12px;background:#1a1714e6;color:#f3eee4;border:1px solid #3a342e;font:700 13px/44px Inter,system-ui,sans-serif}#map-seo>summary::-webkit-details-marker{display:none}#map-seo[open]{z-index:2147483647}html:has(#map-seo[open]) :is(body>*,html>*:not(body,head)):not(#map-seo){visibility:hidden!important}#map-seo[open]>summary{position:fixed;right:10px;top:12px;z-index:2}#map-seo[open]>summary::after{content:" ✕"}#map-seo section{position:fixed;inset:0;overflow:auto;background:#fffdf8;padding:64px 18px 160px;max-width:none}#map-seo section>*{max-width:720px;margin-left:auto;margin-right:auto}#map-seo a{color:#7a0f6c}#map-seo h2{font-size:22px;margin:0 0 8px}#map-seo h3{font-size:17px;margin:18px 0 6px}#map-seo ul{padding-left:18px}</style></head>
+<body><script id="chicas-map-locale-es">try{localStorage.setItem("chicas-map-locale","es")}catch(e){}</script>
+  <noscript>
+    <main id="chica-crawl">
+      <h1>Chicas Map — San Antonio garage sale map</h1>
+      <p>Free live map of garage sales and estate sales in San Antonio.</p>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/list/">This weekend’s sales</a></li>
+        <li><a href="/submit/">List a sale free</a></li>
+      </ul>
+    </main>
+  </noscript>
+  <div id="chica-live-map" class="chica-map" role="application" aria-label="San Antonio garage sale map"></div>
+  <div id="chica-map-boot" role="status" aria-live="polite">
+    <span class="dot" aria-hidden="true"></span>
+    <div class="copy" id="chica-map-boot-copy">Hunting sales…</div>
+    <div class="sub" id="chica-map-boot-sub">San Antonio map</div>
+  </div>
+  <details id="chica-mini">
+    <summary>Menu</summary>
+    <nav aria-label="Chicas Map">
+      <a class="play" href="/adventure/">Play the game</a>
+      <a href="/">Home</a>
+      <a href="/list/">This weekend</a>
+    </nav>
+  </details>
+  <script>
+    (function () {
+      try {
+        if (localStorage.getItem("chicas-map-locale") === "es") {
+          var c = document.getElementById("chica-map-boot-copy");
+          var s = document.getElementById("chica-map-boot-sub");
+          if (c) c.textContent = "Cazando ventas…";
+          if (s) s.textContent = "Mapa de San Antonio";
+        }
+      } catch (e) {}
+    })();
+  </script>
+  <script src="/vendor/leaflet-1.9.4/leaflet.js"></script>
+  <script src="/js/leaflet-boot.js?v=1"></script>
+  <script src="/js/chica-config.js?v=3"></script>
+  <script src="/js/chica-core.js?v=5"></script>
+  <script src="/js/chica-live-map.js?v=53"></script>
+  <script src="/js/tile-guard.js?v=3"></script>
+  <script src="/js/key-clicks.js?v=18"></script>
+  <script src="/js/click-fix.js?v=5"></script>
+  <script src="/js/dom-fix.js?v=1"></script>
+  <script src="/js/force-key.js?v=13"></script>
+  <script src="/js/chica-dates.js?v=2"></script>
+  <script src="/js/pin-details.js?v=16"></script>
+  <script src="/js/hunt-bar.js?v=18"></script>
+  <script src="/js/map-cta.js?v=13"></script>
+  <script src="/js/map-share.js?v=2"></script>
+  <script src="/js/trip-tools.js?v=46" defer></script>
+  <script src="/js/opt-share.js?v=2" defer></script>
+<script src="/js/chica-menu.js?v=13" defer></script>
+<script data-goatcounter="https://chicasmapcom.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script src="/js/chica-socials.js?v=2" defer></script><details id="map-seo"><summary>📋 Lista</summary><section><h2>Ventas de garaje en San Antonio en el mapa</h2><p><b>50 ventas próximas</b> · 39 este fin de semana.</p><p>El mapa gratis de Chica muestra las ventas de garaje, de patio y de bienes en San Antonio y pueblos cercanos como Helotes, Boerne, Schertz y New Braunfels. Los pines rosas son ventas de garaje, los rombos son ventas de bienes y las huellas turquesa son eventos de mascotas. Filtra por Hoy, Mañana o Este fin de semana, toca Cerca de mí, y abre cualquier pin para ver la dirección, el horario y la ruta en Google Maps, Apple Maps o Waze.</p><p>Chica junta ventas de listados públicos y de vecinos que las envían, quita duplicados y revisa las fechas todos los días. Publicar tu venta es gratis.</p><p><a href="/es/garage-sales/this-weekend/">Este fin de semana</a> · <a href="/es/estate-sales/">Ventas de bienes</a> · <a href="/es/list/">Lista completa</a> · <a href="/es/calendar/">Calendario</a> · <a href="/es/submit/">Publica gratis</a></p><h3>Próximas ventas</h3><ul><li><a href="/es/sales/sale-3cb0d5228bac4e26b38c/">Sterling &amp; Gold Jewelry, Silverplate, Christmas, &amp; More!</a> · dom, 22 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/fb-10118-raven-field-2026-11-27/">Yard sale – Raven Field Dr</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/nd-1023-arrowhead-2026-11-27/">Multi-family garage sale – Arrowhead Trail</a> · vie, 27 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/fb-1037-curtiss-2026-11-27/">Yard sale – Curtiss Ave</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/fb-1206-w-gerald-2026-11-27/">Yard sale – W Gerald Ave</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/sale-51a9b6515dfc013ff8e6/">Thanksgiving Weekend Yard Sale</a> · vie, 27 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/cl-ridaygaragesale97xryys2zgym1ymsq3rmnl/">BLACK FRIDAY GARAGE SALE! 🌟</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/fb-24345-wilderness-oak-2026-11-27/">Estate sale – Wilderness Oak</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/gsf-21837055/">Winter Sale! Lots of Nice winter clothing!!</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/yss-3523fallenleafsanantoniotx-2026-11-27/">Multi Families Garage Sale</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/yss-3630richwooddrsanantoniotx-2026-11-27/">Multifamily Sale</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/fb-5122-las-campanas-2026-11-27/">Estate/garage sale – Las Campanas St</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/cl-andwooddrestate7xaztnsgj1p3s5pgojh1l6/">5830 Grandwood dr estate sale</a> · vie, 27 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/nd-8810-tuxford-2026-11-27/">Estate sale – Tuxford Dr</a> · vie, 27 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/sale-1ec446585ab452659163/">Garage Sale-Lots of brand new items</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/yss-diamondhilldrsanantoniotx-2026-11-27/">Garage Sale-Lots Of Brand New Items</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/cl-amilygaragesale97wyggchdskyc8wupxmmpw/">3 family Garage Sale</a> · vie, 27 de nov de 2026 – sáb, 28 de nov de 2026</li><li><a href="/es/sales/abes-634/">#634: Sale of the Season!</a> · vie, 27 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/fb-10134-tempestuous-2026-11-28/">Garage sale – Tempestuous</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/yss-115rollinggreendrsanantoniotx-2026-11-28/">Yard Sale / Estate Sale Items</a> · sáb, 28 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/fb-12315-ecksminster-2026-11-28/">Yard sale – Ecksminster Dr</a> · sáb, 28 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/cl-toniogaragesalew9fmxedbn5ynz4nxi2ren9/">Garage sale</a> · sáb, 28 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/fb-1343-w-lullwood-2026-11-28/">Yard sale – W Lullwood Ave</a> · sáb, 28 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/cl-ehomedcorlarge9uk17vpwrtcpdpfszxjpsd/">GARAGE SALE – HOME DÉCOR, LARGE ARTWORK, CHRISTMAS DECORATIONS, A</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/fb-1542-w-lullwood-2026-11-28/">Garage sale – W Lullwood Ave</a> · sáb, 28 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/fb-162-marlena-2026-11-28/">Estate sale – Marlena</a> · sáb, 28 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/yss-177globaldrnewbraunfelstx-2026-11-28/">Huge Yard Sale</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/yss-212glentowerdrsanantoniotx-2026-11-28/">Garage Sale</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/nd-24802-broad-oak-2026-11-28/">Garage sale – Broad Oak Trail</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/gsf-21835277/">Jeans and jeans one new bike ,tv etc….ciffe table and under tv glass table</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/cl-hugegaragesalexhevsf285h53kgy4relo6f/">Huge garage sale</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/yss-3354cadburydrsanantoniotx-2026-11-28/">Last Minute Garage Sale</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/cl-alenovember28th5goduveyz2wwsy2jnnyuwc/">Moving sale November 28th and 29th</a> · sáb, 28 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/fb-711-w-buchanan-2026-11-28/">Yard sale – W Buchanan Blvd</a> · sáb, 28 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/sale-940f05ad9ac07d635c64/">Better than Black Friday Sale</a> · sáb, 28 de nov de 2026 – dom, 29 de nov de 2026</li><li><a href="/es/sales/nd-8235-pioneer-oak-2026-11-28/">Moving sale – Pioneer Oak</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/fb-86-viking-oak-2026-11-28/">Moving sale – Viking Oak</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/yss-9902dullknifewaysanantoniotx-2026-11-28/">Everything Is Negotiable!!</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/yss-9906dullknifewaysanantoniotx-2026-11-28/">Garage Sale</a> · sáb, 28 de nov de 2026</li><li><a href="/es/sales/wcn-390793/">Floresville Multi-family garage sale</a> · jue, 3 de dic de 2026 – sáb, 5 de dic de 2026</li></ul><h3>Por vecindario</h3><ul><li><a href="/es/garage-sales/stone-oak/">Stone Oak</a></li><li><a href="/es/garage-sales/alamo-heights-midtown/">Alamo Heights y Midtown</a></li><li><a href="/es/garage-sales/north-central/">Centro Norte y Shavano Park</a></li><li><a href="/es/garage-sales/medical-center/">Centro Médico</a></li><li><a href="/es/garage-sales/alamo-ranch-westover-hills/">Alamo Ranch y Westover Hills</a></li><li><a href="/es/garage-sales/helotes/">Helotes</a></li><li><a href="/es/garage-sales/downtown-southtown/">Centro y Southtown</a></li><li><a href="/es/garage-sales/west-side/">Lado Oeste</a></li><li><a href="/es/garage-sales/southwest-lackland/">Suroeste de San Antonio y Lackland</a></li><li><a href="/es/garage-sales/south-side/">Lado Sur</a></li><li><a href="/es/garage-sales/east-side/">Lado Este</a></li><li><a href="/es/garage-sales/northeast-live-oak-converse/">Live Oak, Converse y Universal City</a></li><li><a href="/es/garage-sales/schertz-new-braunfels/">Schertz, Cibolo y New Braunfels</a></li><li><a href="/es/garage-sales/boerne-hill-country/">Boerne y el Hill Country</a></li></ul></section></details><!--/map-seo--></body>
+</html>

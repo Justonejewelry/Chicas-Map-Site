@@ -1,0 +1,3629 @@
+{
+  "version": 47,
+  "city": "san-antonio",
+  "generated": "2026-11-28",
+  "timezone": "America/Chicago",
+  "status": "live",
+  "policy": "Explicit sale dates only; uncertain dates excluded. Sales starting more than 60 days out are held back. 60-mile SA metro. Raw overlays preserved.",
+  "total_locations": 50,
+  "today_count": 39,
+  "public": [
+    {
+      "address": "San Antonio, TX 78232",
+      "dates": "2026-11-22 – 2026-11-29",
+      "date_from": "2026-11-22",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "title": "Sterling & Gold Jewelry, Silverplate, Christmas, & More!",
+      "details": "",
+      "source": "GarageSaleFinder",
+      "url": "https://garagesalefinder.com/s/N9iSG/san-antonio-tx-78232",
+      "photos": 0,
+      "type": "garage",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.59,
+      "lon": -98.47,
+      "geocode": "zip-centroid",
+      "date_start": "2026-11-22",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9iSG/san-antonio-tx-78232"
+      ],
+      "sources": [
+        "GarageSaleFinder"
+      ],
+      "aliases": [
+        "29.59000,-98.47000|Sterling & Gold Jewelry, Silverplate, Christmas, & More!"
+      ],
+      "external_id": "sale-3cb0d5228bac4e26b38c",
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "10118 RAVEN FIELD DR, SAN ANTONIO, TX, 78245",
+      "source_address": "10118 Raven Field Dr, San Antonio, TX",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "8:00 AM – 2:00 PM",
+      "title": "Yard sale – Raven Field Dr",
+      "details": "Toys, clothes, decor, Funkos; lattes & cocoa",
+      "source": "Facebook",
+      "url": "https://facebook.com/groups/388018294324151/permalink/1036378096154831/",
+      "photos": 0,
+      "type": "yard",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.404170480477,
+      "lon": -98.689942542791,
+      "geocode": "census",
+      "external_id": "fb-10118-raven-field-2026-11-27",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78245",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://facebook.com/groups/388018294324151/permalink/1036378096154831/"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-10118-raven-field-2026-11-27"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "1023 ARROWHEAD TRL, SAN ANTONIO, TX, 78245",
+      "source_address": "1023 Arrowhead Trail, San Antonio, TX",
+      "dates": "2026-11-27 – 2026-11-29",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "hours": "",
+      "title": "Multi-family garage sale – Arrowhead Trail",
+      "details": "Pets, bikes, kitchen, kids, furniture, garden; yellow balloons",
+      "source": "Nextdoor",
+      "url": "https://nextdoor.com/p/-mKNr3P6CFLr",
+      "photos": 0,
+      "type": "garage",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.432306124735,
+      "lon": -98.693474998192,
+      "geocode": "census",
+      "external_id": "nd-1023-arrowhead-2026-11-27",
+      "categories": [
+        "garage-sale",
+        "nextdoor"
+      ],
+      "zip": "78245",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://nextdoor.com/p/-mKNr3P6CFLr"
+      ],
+      "sources": [
+        "Nextdoor"
+      ],
+      "aliases": [
+        "nd-1023-arrowhead-2026-11-27"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "1037 CURTISS AVE, SCHERTZ, TX, 78154",
+      "source_address": "1037 Curtiss Ave, Schertz, TX",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "",
+      "title": "Yard sale – Curtiss Ave",
+      "details": "Clothes, books, plants, tools; cash only",
+      "source": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/2199910493933416",
+      "photos": 0,
+      "type": "yard",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.559421561927,
+      "lon": -98.261925054764,
+      "geocode": "census",
+      "external_id": "fb-1037-curtiss-2026-11-27",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78154",
+      "city": "Schertz",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.facebook.com/marketplace/item/2199910493933416"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-1037-curtiss-2026-11-27"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "1206 W GERALD AVE, SAN ANTONIO, TX, 78211",
+      "source_address": "1206 W Gerald Ave, San Antonio, TX",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "",
+      "title": "Yard sale – W Gerald Ave",
+      "details": "Bikes, clothing, collectibles, tools",
+      "source": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1707844320845595",
+      "photos": 0,
+      "type": "yard",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.365611592578,
+      "lon": -98.522955015801,
+      "geocode": "census",
+      "external_id": "fb-1206-w-gerald-2026-11-27",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78211",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.facebook.com/marketplace/item/1707844320845595"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-1206-w-gerald-2026-11-27"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "1405 River Bluff Cir, Pipe Creek, TX 78063",
+      "dates": "2026-11-27 – 2026-11-29",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "title": "Thanksgiving Weekend Yard Sale",
+      "details": "",
+      "source": "GarageSaleFinder",
+      "url": "https://garagesalefinder.com/s/N9ijc/1405-river-bluff-cir-pipe-creek-tx-78063",
+      "photos": 0,
+      "type": "garage",
+      "confidence": 0.65,
+      "status": "verified",
+      "lat": 29.4241,
+      "lon": -98.4936,
+      "geocode": "city-center",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9ijc/1405-river-bluff-cir-pipe-creek-tx-78063"
+      ],
+      "sources": [
+        "GarageSaleFinder"
+      ],
+      "aliases": [
+        "29.42410,-98.49360|Thanksgiving Weekend Yard Sale"
+      ],
+      "external_id": "sale-51a9b6515dfc013ff8e6",
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "203 Rilla Vista near McCullough, San Antonio, TX",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "posted_at": "2026-11-08T22:05:08-0600",
+      "date_certainty": "explicit",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": "9:00 AM – 4:00 PM",
+      "title": "BLACK FRIDAY GARAGE SALE! 🌟",
+      "details": "BLACK FRIDAY GARAGE SALE! 🌟 🛍️ BIG DEALS • GREAT FINDS • HIDDEN TREASURES! 📍 203 Rilla Vista Dr., San Antonio, TX 78216 📅 Friday, November 27 & Saturday, November 28 ⏰ 9:00 AM – 4:00 PM BOTH DAYS! Skip the crowded stores and come treasure hunting with us! We're clearing out a great variety of items, including new, gently used, and collectible finds. Something for everyone! 🛒 HERE'S A SNEAK PEEK: 🔨",
+      "date_evidence": "2026-11-27 – 2026-11-28",
+      "source": "Craigslist",
+      "url": "https://www.craigslist.org/view/d/san-antonio-black-friday-garage-sale/97xrYys2ZGym1YmSq3RMnL",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.82,
+      "status": "verified",
+      "lat": 29.5334,
+      "lon": -98.4975,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "cl-ridaygaragesale97xryys2zgym1ymsq3rmnl",
+      "address_status": "hidden_until_sale",
+      "resolve_note": "street withheld by lister until morning of sale",
+      "aliases": [
+        "Greater Harmony Hills",
+        "cl-ridaygaragesale97xryys2zgym1ymsq3rmnl"
+      ],
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "neighborhood": "Greater Harmony Hills",
+      "neighborhood_aliases": [
+        "Greater Harmony Hills"
+      ],
+      "neighborhood_source": "city-of-san-antonio-neighborhood-associations",
+      "neighborhood_dataset_updated_at": "2026-11-16T16:28:59+00:00",
+      "source_urls": [
+        "https://www.craigslist.org/view/d/san-antonio-black-friday-garage-sale/97xrYys2ZGym1YmSq3RMnL"
+      ],
+      "sources": [
+        "Craigslist"
+      ],
+      "confidence_label": "potentially_outdated",
+      "confidence_note": "Original post is 20 days old. Confirm the sale is still active before traveling."
+    },
+    {
+      "address": "24345 WILDERNESS OAK, SAN ANTONIO, TX, 78258",
+      "source_address": "24345 Wilderness Oak, San Antonio, TX 78258",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "8:00 AM – 2:00 PM",
+      "title": "Estate sale – Wilderness Oak",
+      "details": "Furniture, appliances, decor, tools",
+      "source": "Facebook",
+      "url": "https://facebook.com/groups/151186965724930/permalink/2367858547391083/",
+      "photos": 0,
+      "type": "estate",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.665997360707,
+      "lon": -98.472517015588,
+      "geocode": "census",
+      "external_id": "fb-24345-wilderness-oak-2026-11-27",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78258",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://facebook.com/groups/151186965724930/permalink/2367858547391083/"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-24345-wilderness-oak-2026-11-27"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "2914 LEGION DR, KERRVILLE, TX, 78028",
+      "source_address": "2914 Legion Dr, Kerrville, TX 78028",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "9:00 AM – 5:00 PM",
+      "title": "Winter Sale! Lots of Nice winter clothing!!",
+      "details": "Coats, Jackets, hoodies, party dresses, Name brand purses, boots and tennis shoes. Blankets and custom jewelry. More pictures tomorrow.",
+      "source": "GarageSaleFinder",
+      "url": "https://garagesalefinder.com/s/N9id2/2914-legion-dr-kerrville-tx-78028",
+      "photos": 3,
+      "type": "garage",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 30.023944469668,
+      "lon": -99.117499359402,
+      "geocode": "census",
+      "external_id": "gsf-21837055",
+      "categories": [
+        "garage-sale",
+        "garagesalefinder"
+      ],
+      "zip": "78028",
+      "city": "Kerrville",
+      "in_person": true,
+      "date_note": "Date and hours as posted on the GarageSaleFinder listing and in the daily email of 2026-11-27 (checked 7:58 AM CT).",
+      "date_verified": "gsf-email-2026-11-27",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9id2/2914-legion-dr-kerrville-tx-78028"
+      ],
+      "sources": [
+        "GarageSaleFinder"
+      ],
+      "aliases": [
+        "gsf-21837055"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "3523 Fallen Leaf, San Antonio, TX",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "Multi Families Garage Sale",
+      "details": "Women’s and Men’s clothes\nJewelry \nFurniture \nShoes\nChristmas decorations…",
+      "source": "YardSaleSearch",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196471411",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.88,
+      "status": "verified",
+      "lat": 29.520796,
+      "lon": -98.553706,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "yss-3523fallenleafsanantoniotx-2026-11-27",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9i3L/3523-fallen-leaf-san-antonio-tx-78230",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196471411"
+      ],
+      "sources": [
+        "GarageSaleFinder",
+        "YardSaleSearch"
+      ],
+      "aliases": [
+        "29.55000,-98.58000|Multi Families Garage Sale",
+        "yss-3523fallenleafsanantoniotx-2026-11-27"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "3630 Richwood Dr, San Antonio, TX",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "Multifamily Sale",
+      "details": "Clothing, jackets, sweaters, shoes, books, DVDs, kitchen items, toys, games…",
+      "source": "YardSaleSearch",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196471589",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.88,
+      "status": "verified",
+      "lat": 29.53871712,
+      "lon": -98.56107175,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "yss-3630richwooddrsanantoniotx-2026-11-27",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9iBF/3630-richwood-dr-san-antonio-tx-78230",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196471589"
+      ],
+      "sources": [
+        "GarageSaleFinder",
+        "YardSaleSearch"
+      ],
+      "aliases": [
+        "29.55000,-98.58000|MultiFamily Sale",
+        "yss-3630richwooddrsanantoniotx-2026-11-27"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "5122 LAS CAMPANAS ST, SAN ANTONIO, TX, 78233",
+      "source_address": "5122 Las Campanas St, San Antonio, TX",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "",
+      "title": "Estate/garage sale – Las Campanas St",
+      "details": "Everything must go",
+      "source": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1675757844026192",
+      "photos": 0,
+      "type": "estate",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.555567687781,
+      "lon": -98.38891886691,
+      "geocode": "census",
+      "external_id": "fb-5122-las-campanas-2026-11-27",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78233",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.facebook.com/marketplace/item/1675757844026192"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-5122-las-campanas-2026-11-27"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "5830 Grandwood dr, San Antonio, TX",
+      "dates": "2026-11-27 – 2026-11-29",
+      "date_from": "2026-11-27",
+      "posted_at": "2026-11-24T19:31:14-0600",
+      "date_certainty": "explicit",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "hours": null,
+      "title": "5830 Grandwood dr estate sale",
+      "details": "Estate sale - furniture in pictures Friday, Saturday, and Sunday (27, 28, & 29)",
+      "date_evidence": "2026-11-27 – 2026-11-29",
+      "source": "Craigslist",
+      "url": "https://www.craigslist.org/view/d/san-antonio-5830-grandwood-dr-estate/7XAzTnsgj1P3s5pgoJH1L6",
+      "photos": 0,
+      "type": "estate",
+      "categories": [
+        "estate-sale"
+      ],
+      "confidence": 0.82,
+      "status": "verified",
+      "lat": 29.532049,
+      "lon": -98.374138,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "cl-andwooddrestate7xaztnsgj1p3s5pgojh1l6",
+      "aliases": [
+        "Royal Ridge",
+        "cl-andwooddrestate7xaztnsgj1p3s5pgojh1l6"
+      ],
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "neighborhood": "Royal Ridge",
+      "neighborhood_aliases": [
+        "Royal Ridge"
+      ],
+      "neighborhood_source": "city-of-san-antonio-neighborhood-associations",
+      "neighborhood_dataset_updated_at": "2026-11-16T16:28:59+00:00",
+      "source_urls": [
+        "https://www.craigslist.org/view/d/san-antonio-5830-grandwood-dr-estate/7XAzTnsgj1P3s5pgoJH1L6"
+      ],
+      "sources": [
+        "Craigslist"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "8810 TUXFORD DR, SAN ANTONIO, TX, 78239",
+      "source_address": "8810 Tuxford Dr, San Antonio, TX 78239",
+      "dates": "2026-11-27 – 2026-11-29",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "hours": "10:00 AM – 5:00 PM",
+      "title": "Estate sale – Tuxford Dr",
+      "details": "1970s furniture & decor; 33% off Sat, 50% off Sun",
+      "source": "Nextdoor",
+      "url": "https://nextdoor.com/p/Mb7z5q49JQ2p",
+      "photos": 0,
+      "type": "estate",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.519877492339,
+      "lon": -98.35299770811,
+      "geocode": "census",
+      "external_id": "nd-8810-tuxford-2026-11-27",
+      "categories": [
+        "garage-sale",
+        "nextdoor"
+      ],
+      "zip": "78239",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://nextdoor.com/p/Mb7z5q49JQ2p"
+      ],
+      "sources": [
+        "Nextdoor"
+      ],
+      "aliases": [
+        "nd-8810-tuxford-2026-11-27"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "Diamond Hill Dr, San Antonio, TX 78232",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "title": "Garage Sale-Lots of brand new items",
+      "details": "",
+      "source": "GarageSaleFinder",
+      "url": "https://garagesalefinder.com/s/N9uyN/diamond-hill-dr-san-antonio-tx-78232",
+      "photos": 0,
+      "type": "garage",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.59,
+      "lon": -98.47,
+      "geocode": "zip-centroid",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9uyN/diamond-hill-dr-san-antonio-tx-78232"
+      ],
+      "sources": [
+        "GarageSaleFinder"
+      ],
+      "aliases": [
+        "29.59000,-98.47000|Garage Sale-Lots of brand new items"
+      ],
+      "external_id": "sale-1ec446585ab452659163",
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "Diamond Hill Dr, San Antonio, TX",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "Garage Sale-Lots Of Brand New Items",
+      "details": "Many brand new items, some still in packaging-great for gifting!\nEverything must…",
+      "source": "YardSaleSearch",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196467987",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.88,
+      "status": "verified",
+      "lat": 29.6029049,
+      "lon": -98.44904258,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "yss-diamondhilldrsanantoniotx-2026-11-27",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196467987"
+      ],
+      "sources": [
+        "YardSaleSearch"
+      ],
+      "aliases": [
+        "yss-diamondhilldrsanantoniotx-2026-11-27"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "Dragway Farms San Antonio Tx 78239, San Antonio, TX",
+      "dates": "2026-11-27 – 2026-11-28",
+      "date_from": "2026-11-27",
+      "posted_at": "2026-11-26T15:21:12-0600",
+      "date_certainty": "explicit",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "3 family Garage Sale",
+      "details": "Huge 3 family Garage Sale Friday Nov 27 and Saturday Nov 28 8 am - 2 pm Dragway Farms San Antonio Tx 78239 Garage Sale, 3 families. Lots of furniture. Black makeup vanity with lighted mirror. Blue futon and more, excellent conditon. Grey wood Tv stand. Gold metal and glass shelf. Home Goods: small kitchen appliances, lamps, wall art, and bedding. Lots of other gently used items. Looking for a grea",
+      "date_evidence": "2026-11-27 – 2026-11-28",
+      "source": "Craigslist",
+      "url": "https://www.craigslist.org/view/d/san-antonio-family-garage-sale/97wygGChDsKYC8wupxMmPw",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.82,
+      "status": "verified",
+      "lat": 29.5173,
+      "lon": -98.3217,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "cl-amilygaragesale97wyggchdskyc8wupxmmpw",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "source_urls": [
+        "https://www.craigslist.org/view/d/san-antonio-family-garage-sale/97wygGChDsKYC8wupxMmPw"
+      ],
+      "sources": [
+        "Craigslist"
+      ],
+      "aliases": [
+        "cl-amilygaragesale97wyggchdskyc8wupxmmpw"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "#634: Sale of the Season! (address posts 9 a.m. CT the day before), San Antonio, TX 78232",
+      "dates": "2026-11-27 – 2026-11-29",
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-29",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-29",
+      "end_date": "2026-11-29",
+      "hours": null,
+      "title": "#634: Sale of the Season!",
+      "details": "#634: Sale of the Season!. The street address posts at 9 a.m. CT the day before the sale begins. This pin is the sale area, not a driveway.",
+      "source": "A Better Estate Sale",
+      "url": "https://www.estatesales.net/TX/San-Antonio/78232/5163381",
+      "photos": 0,
+      "type": "estate",
+      "categories": [
+        "community-sale",
+        "estate-sale"
+      ],
+      "confidence": 0.6,
+      "status": "verified",
+      "lat": 29.4246002,
+      "lon": -98.4951405,
+      "geocode": "nominatim-place",
+      "in_person": true,
+      "external_id": "abes-634",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.estatesales.net/TX/San-Antonio/78232/5163381"
+      ],
+      "sources": [
+        "A Better Estate Sale"
+      ],
+      "aliases": [
+        "abes-634"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "10134 TEMPESTUOUS, SAN ANTONIO, TX, 78251",
+      "source_address": "10134 Tempestuous, San Antonio, TX 78251",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "9:00 AM – 2:00 PM",
+      "title": "Garage sale – Tempestuous",
+      "details": "Clothes, sports/Pokémon cards, furniture",
+      "source": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1709743474045703",
+      "photos": 0,
+      "type": "garage",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.447771993515,
+      "lon": -98.691316869357,
+      "geocode": "census",
+      "external_id": "fb-10134-tempestuous-2026-11-28",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78251",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.facebook.com/marketplace/item/1709743474045703"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-10134-tempestuous-2026-11-28"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "115 Rolling Green Dr, San Antonio, TX",
+      "dates": "2026-11-28 – 2026-11-29",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "hours": null,
+      "title": "Yard Sale / Estate Sale Items",
+      "details": "Antiques: bed dresser and chairs. Vintage: jewelry - retro lamps - chairs -…",
+      "source": "YardSaleSearch",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196472627",
+      "photos": 0,
+      "type": "estate",
+      "categories": [
+        "estate-sale"
+      ],
+      "confidence": 0.88,
+      "status": "verified",
+      "lat": 29.475066,
+      "lon": -98.570898,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "yss-115rollinggreendrsanantoniotx-2026-11-28",
+      "aliases": [
+        "29.46000,-98.58000|Yard Sale / Estate Sale Items",
+        "Inspiration Hills",
+        "yss-115rollinggreendrsanantoniotx-2026-11-28"
+      ],
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "neighborhood": "Inspiration Hills",
+      "neighborhood_aliases": [
+        "Inspiration Hills"
+      ],
+      "neighborhood_source": "city-of-san-antonio-neighborhood-associations",
+      "neighborhood_dataset_updated_at": "2026-11-16T16:28:59+00:00",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9Co2/115-rolling-green-dr-san-antonio-tx-78228",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196472627"
+      ],
+      "sources": [
+        "GarageSaleFinder",
+        "YardSaleSearch"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "12315 ECKSMINSTER DR, SAN ANTONIO, TX, 78216",
+      "source_address": "12315 Ecksminster Dr, San Antonio, TX 78216",
+      "dates": "2026-11-28 – 2026-11-29",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "hours": "",
+      "title": "Yard sale – Ecksminster Dr",
+      "details": "Vacuums, skateboards, vintage, furniture, kid items",
+      "source": "Facebook",
+      "url": "https://facebook.com/groups/388018294324151/permalink/1036869046105736/",
+      "photos": 0,
+      "type": "yard",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.552348519487,
+      "lon": -98.470411574108,
+      "geocode": "census",
+      "external_id": "fb-12315-ecksminster-2026-11-28",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78216",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://facebook.com/groups/388018294324151/permalink/1036869046105736/"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-12315-ecksminster-2026-11-28"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "12710 clearwater cove near Oxbow lane, San Antonio, TX",
+      "dates": "2026-11-28 – 2026-11-29",
+      "date_from": "2026-11-28",
+      "posted_at": "2026-11-27T23:27:48-0600",
+      "date_certainty": "explicit",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "hours": null,
+      "title": "Garage sale",
+      "details": "Furniture Toys games Bikes Computer monitors Misc Clothing Housewares Tons of stuff Saturday/11/28/26-11/29/26",
+      "date_evidence": "2026-11-28 – 2026-11-29",
+      "source": "Craigslist",
+      "url": "https://www.craigslist.org/view/d/san-antonio-garage-sale/w9fmxEdbn5Ynz4NXi2REn9",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.82,
+      "status": "verified",
+      "lat": 29.514,
+      "lon": -98.7461,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "cl-toniogaragesalew9fmxedbn5ynz4nxi2ren9",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "source_urls": [
+        "https://www.craigslist.org/view/d/san-antonio-garage-sale/w9fmxEdbn5Ynz4NXi2REn9"
+      ],
+      "sources": [
+        "Craigslist"
+      ],
+      "aliases": [
+        "cl-toniogaragesalew9fmxedbn5ynz4nxi2ren9"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "1343 W LULLWOOD AVE, SAN ANTONIO, TX, 78201",
+      "source_address": "1343 W Lullwood Ave, San Antonio, TX",
+      "dates": "2026-11-28 – 2026-11-29",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "hours": "9:00 AM – dark",
+      "title": "Yard sale – W Lullwood Ave",
+      "details": "Furniture, tools, pizza oven, grill",
+      "source": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1329570939294869",
+      "photos": 0,
+      "type": "yard",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.465771397779,
+      "lon": -98.517722440809,
+      "geocode": "census",
+      "external_id": "fb-1343-w-lullwood-2026-11-28",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78201",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.facebook.com/marketplace/item/1329570939294869"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-1343-w-lullwood-2026-11-28"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "14034 Fairway Oaks, San Antonio, TX",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "posted_at": "2026-11-27T15:45:46-0600",
+      "date_certainty": "explicit",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "GARAGE SALE – HOME DÉCOR, LARGE ARTWORK, CHRISTMAS DECORATIONS, A",
+      "details": "🏡 **HUGE GARAGE SALE – Beautiful Home Décor, Artwork, Floral Arrangements & SO MUCH MORE!** 📅 **Saturday, November 28 | 9 AM–3 PM** 📍 **14034 Fairway Oaks, San Antonio, TX** Northern Hills Subdivision We're having a BIG garage sale with tons of beautiful decorative items, household treasures, and unique finds! 🌸 **HOME DÉCOR & FLORAL ARRANGEMENTS** - Beautiful silk floral arrangements - Large fram",
+      "date_evidence": "2026-11-28 – 2026-11-28",
+      "source": "Craigslist",
+      "url": "https://www.craigslist.org/view/d/san-antonio-garage-sale-home-dcor-large/9UK17vpwrtcpdPfszxjpsd",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.82,
+      "status": "verified",
+      "lat": 29.566263,
+      "lon": -98.410173,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "cl-ehomedcorlarge9uk17vpwrtcpdpfszxjpsd",
+      "aliases": [
+        "Northern Hills",
+        "cl-ehomedcorlarge9uk17vpwrtcpdpfszxjpsd"
+      ],
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "neighborhood": "Northern Hills",
+      "neighborhood_aliases": [
+        "Northern Hills"
+      ],
+      "neighborhood_source": "city-of-san-antonio-neighborhood-associations",
+      "neighborhood_dataset_updated_at": "2026-11-16T16:28:59+00:00",
+      "source_urls": [
+        "https://www.craigslist.org/view/d/san-antonio-garage-sale-home-dcor-large/9UK17vpwrtcpdPfszxjpsd"
+      ],
+      "sources": [
+        "Craigslist"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "1542 W LULLWOOD AVE, SAN ANTONIO, TX, 78201",
+      "source_address": "1542 W Lullwood Ave, San Antonio, TX 78201",
+      "dates": "2026-11-28 – 2026-11-29",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "hours": "8:00 AM – 4:00 PM",
+      "title": "Garage sale – W Lullwood Ave",
+      "details": "",
+      "source": "Facebook",
+      "url": "https://facebook.com/groups/151186965724930/permalink/2369103673933237/",
+      "photos": 0,
+      "type": "garage",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.465664698916,
+      "lon": -98.521928907301,
+      "geocode": "census",
+      "external_id": "fb-1542-w-lullwood-2026-11-28",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78201",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://facebook.com/groups/151186965724930/permalink/2369103673933237/"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-1542-w-lullwood-2026-11-28"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "162 MARLENA, SAN ANTONIO, TX, 78213",
+      "source_address": "162 Marlena, San Antonio, TX 78213",
+      "dates": "2026-11-28 – 2026-11-29",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "hours": "9:00 AM – 4:00 PM",
+      "title": "Estate sale – Marlena",
+      "details": "Waterford crystal, guitar, mirror, dryer; 25% off Sat",
+      "source": "Facebook",
+      "url": "https://facebook.com/groups/151186965724930/permalink/2369111030599168/",
+      "photos": 0,
+      "type": "estate",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.509314295348,
+      "lon": -98.539702151392,
+      "geocode": "census",
+      "external_id": "fb-162-marlena-2026-11-28",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78213",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://facebook.com/groups/151186965724930/permalink/2369111030599168/"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-162-marlena-2026-11-28"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "177 Global Dr, New Braunfels, TX",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "Huge Yard Sale",
+      "details": "Huge yard sale…",
+      "source": "YardSaleSearch",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196472271",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.88,
+      "status": "verified",
+      "lat": 29.665366,
+      "lon": -98.085655,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "yss-177globaldrnewbraunfelstx-2026-11-28",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9i4K/177-global-dr-new-braunfels-tx-78130",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196472271"
+      ],
+      "sources": [
+        "GarageSaleFinder",
+        "YardSaleSearch"
+      ],
+      "aliases": [
+        "29.42410,-98.49360|Huge yard sale",
+        "yss-177globaldrnewbraunfelstx-2026-11-28"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "212 Glentower Dr, San Antonio, TX",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "Garage Sale",
+      "details": "tools, car parts, party supplies, and electronics.\n\n Everything priced to sell -…",
+      "source": "YardSaleSearch",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196472363",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.88,
+      "status": "verified",
+      "lat": 29.524798,
+      "lon": -98.511866,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "yss-212glentowerdrsanantoniotx-2026-11-28",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9i8U/212-glentower-dr-san-antonio-tx-78213",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196472363"
+      ],
+      "sources": [
+        "GarageSaleFinder",
+        "YardSaleSearch"
+      ],
+      "aliases": [
+        "29.52000,-98.52000|Garage Sale",
+        "yss-212glentowerdrsanantoniotx-2026-11-28"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "24802 BROAD OAK TRL, SAN ANTONIO, TX, 78255",
+      "source_address": "24802 Broad Oak Trail, San Antonio, TX",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "9:00 AM – 1:00 PM",
+      "title": "Garage sale – Broad Oak Trail",
+      "details": "Couch, glider, desk, TVs, bedding, clothes",
+      "source": "Nextdoor",
+      "url": "https://nextdoor.com/p/Kn9NhqgthgBG",
+      "photos": 0,
+      "type": "garage",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.667108787959,
+      "lon": -98.659941390979,
+      "geocode": "census",
+      "external_id": "nd-24802-broad-oak-2026-11-28",
+      "categories": [
+        "garage-sale",
+        "nextdoor"
+      ],
+      "zip": "78255",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://nextdoor.com/p/Kn9NhqgthgBG"
+      ],
+      "sources": [
+        "Nextdoor"
+      ],
+      "aliases": [
+        "nd-24802-broad-oak-2026-11-28"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "251 SUMMER DR, KYLE, TX, 78640",
+      "source_address": "251 Summer Dr, Kyle, TX 78640",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "8:00 AM – 11:00 AM",
+      "title": "Jeans and jeans one new bike ,tv etc….ciffe table and under tv glass table",
+      "details": "Ladies size jeans 14. 16 and 20 all colors and styles tv old model. Sony comes with air antenna. Bike with 3 new helmets. Jeans $3. and $4. Glass tv table and glass top accent table. Subdivision Four Seasons Farm off FM 150. Lovers plants $3. All rooted.",
+      "source": "GarageSaleFinder",
+      "url": "https://garagesalefinder.com/s/N9iUK/251-summer-dr-kyle-tx-78640",
+      "photos": 0,
+      "type": "garage",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.978739749096,
+      "lon": -97.86416671669,
+      "geocode": "census",
+      "external_id": "gsf-21835277",
+      "categories": [
+        "garage-sale",
+        "garagesalefinder"
+      ],
+      "zip": "78640",
+      "city": "Kyle",
+      "in_person": true,
+      "neighborhood": "Four Seasons Farm",
+      "date_note": "Date and hours as posted on the GarageSaleFinder listing and in the daily email of 2026-11-25 (checked 8:12 AM CT).",
+      "date_verified": "gsf-email-2026-11-25",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9iUK/251-summer-dr-kyle-tx-78640"
+      ],
+      "sources": [
+        "GarageSaleFinder"
+      ],
+      "aliases": [
+        "gsf-21835277"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "322 territory oak, San Antonio, TX",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "posted_at": "2026-11-27T19:39:00-0600",
+      "date_certainty": "explicit",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "Huge garage sale",
+      "details": "Huge sale Saturday 28 322 Territory Oak Lots of items",
+      "date_evidence": "2026-11-28 – 2026-11-28",
+      "source": "Craigslist",
+      "url": "https://www.craigslist.org/view/d/san-antonio-huge-garage-sale/xhevSf285H53KGy4rELo6F",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.82,
+      "status": "verified",
+      "lat": 29.435371,
+      "lon": -98.716081,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "cl-hugegaragesalexhevsf285h53kgy4relo6f",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "source_urls": [
+        "https://www.craigslist.org/view/d/san-antonio-huge-garage-sale/xhevSf285H53KGy4rELo6F"
+      ],
+      "sources": [
+        "Craigslist"
+      ],
+      "aliases": [
+        "cl-hugegaragesalexhevsf285h53kgy4relo6f"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "3354 Cadbury Dr, San Antonio, TX",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "Last Minute Garage Sale",
+      "details": "Saturday Sale with possible Sunday. Coordinated with neighbors selling as well.…",
+      "source": "YardSaleSearch",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196472091",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.88,
+      "status": "verified",
+      "lat": 29.57361,
+      "lon": -98.422119,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "yss-3354cadburydrsanantoniotx-2026-11-28",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9iKL/3354-cadbury-dr-san-antonio-tx-78247",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196472091"
+      ],
+      "sources": [
+        "GarageSaleFinder",
+        "YardSaleSearch"
+      ],
+      "aliases": [
+        "29.58000,-98.42000|Last minute Garage Sale",
+        "yss-3354cadburydrsanantoniotx-2026-11-28"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "5838 tree view street near Houston and Regal view drive, San Antonio, TX",
+      "dates": "2026-11-28 – 2026-11-29",
+      "date_from": "2026-11-28",
+      "posted_at": "2026-11-25T16:21:15-0600",
+      "date_certainty": "explicit",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "hours": null,
+      "title": "Moving sale November 28th and 29th",
+      "details": "Old vintage collectibles, sports goods, household items, fashions, electronics....boxes of good stuff we need to sell a lot of items. Come check it out and make us a big bundle offer",
+      "date_evidence": "2026-11-28 – 2026-11-29",
+      "source": "Craigslist",
+      "url": "https://www.craigslist.org/view/d/san-antonio-moving-sale-november-28th/5goduVEYZ2WwSY2JnnyUWC",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale",
+        "moving-sale"
+      ],
+      "confidence": 0.82,
+      "status": "verified",
+      "lat": 29.419946,
+      "lon": -98.376951,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "cl-alenovember28th5goduveyz2wwsy2jnnyuwc",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "source_urls": [
+        "https://www.craigslist.org/view/d/san-antonio-moving-sale-november-28th/5goduVEYZ2WwSY2JnnyUWC"
+      ],
+      "sources": [
+        "Craigslist"
+      ],
+      "aliases": [
+        "cl-alenovember28th5goduveyz2wwsy2jnnyuwc"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "711 W BUCHANAN BLVD, SAN ANTONIO, TX, 78221",
+      "source_address": "711 W Buchanan Blvd, San Antonio, TX 78221",
+      "dates": "2026-11-28 – 2026-11-29",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "hours": "9:00 AM – 5:00 PM",
+      "title": "Yard sale – W Buchanan Blvd",
+      "details": "Appliances, electronics, tools, furniture, Christmas decor",
+      "source": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/2353077568847194",
+      "photos": 0,
+      "type": "yard",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.3230632857,
+      "lon": -98.514701474929,
+      "geocode": "census",
+      "external_id": "fb-711-w-buchanan-2026-11-28",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78221",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.facebook.com/marketplace/item/2353077568847194"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-711-w-buchanan-2026-11-28"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "8020 Ashford Dr, Spring Branch, TX 78070",
+      "dates": "2026-11-28 – 2026-11-29",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-29",
+      "end_date": "2026-11-29",
+      "title": "Better than Black Friday Sale",
+      "details": "",
+      "source": "GarageSaleFinder",
+      "url": "https://garagesalefinder.com/s/N9CNt/8020-ashford-dr-spring-branch-tx-78070",
+      "photos": 0,
+      "type": "garage",
+      "confidence": 0.65,
+      "status": "verified",
+      "lat": 29.4241,
+      "lon": -98.4936,
+      "geocode": "city-center",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-29",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9CNt/8020-ashford-dr-spring-branch-tx-78070"
+      ],
+      "sources": [
+        "GarageSaleFinder"
+      ],
+      "aliases": [
+        "29.42410,-98.49360|Better than Black Friday Sale"
+      ],
+      "external_id": "sale-940f05ad9ac07d635c64",
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "8235 PIONEER OAK, CONVERSE, TX, 78109",
+      "source_address": "8235 Pioneer Oak, Converse, TX 78109",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "9:00 AM – 3:00 PM",
+      "title": "Moving sale – Pioneer Oak",
+      "details": "Lots of stuff, no list",
+      "source": "Nextdoor",
+      "url": "https://nextdoor.com/p/FZrKHznSNm_b",
+      "photos": 0,
+      "type": "moving",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.530342659474,
+      "lon": -98.328273592983,
+      "geocode": "census",
+      "external_id": "nd-8235-pioneer-oak-2026-11-28",
+      "categories": [
+        "garage-sale",
+        "nextdoor"
+      ],
+      "zip": "78109",
+      "city": "Converse",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://nextdoor.com/p/FZrKHznSNm_b"
+      ],
+      "sources": [
+        "Nextdoor"
+      ],
+      "aliases": [
+        "nd-8235-pioneer-oak-2026-11-28"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "86 VIKING OAK, SAN ANTONIO, TX, 78247",
+      "source_address": "86 Viking Oak, San Antonio, TX 78247",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "hours": "8:00 AM – 3:00 PM",
+      "title": "Moving sale – Viking Oak",
+      "details": "Furniture, kids clothes, decor",
+      "source": "Facebook",
+      "url": "https://facebook.com/groups/388018294324151/permalink/1036696476122993/",
+      "photos": 0,
+      "type": "moving",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.570662847133,
+      "lon": -98.436906079983,
+      "geocode": "census",
+      "external_id": "fb-86-viking-oak-2026-11-28",
+      "categories": [
+        "garage-sale",
+        "facebook"
+      ],
+      "zip": "78247",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://facebook.com/groups/388018294324151/permalink/1036696476122993/"
+      ],
+      "sources": [
+        "Facebook"
+      ],
+      "aliases": [
+        "fb-86-viking-oak-2026-11-28"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "9902 Dull Knife Way, San Antonio, TX",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "Everything Is Negotiable!!",
+      "details": "Double door stainless steel refrigerator ( almost new) kitchen island with…",
+      "source": "YardSaleSearch",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196471949",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.88,
+      "status": "verified",
+      "lat": 29.528551,
+      "lon": -98.369768,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "yss-9902dullknifewaysanantoniotx-2026-11-28",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9iFM/9902-dull-knife-way-san-antonio-tx-78239",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196471949"
+      ],
+      "sources": [
+        "GarageSaleFinder",
+        "YardSaleSearch"
+      ],
+      "aliases": [
+        "29.52000,-98.36000|Everything is negotiable!!",
+        "yss-9902dullknifewaysanantoniotx-2026-11-28"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "9906 Dull Knife Way, San Antonio, TX",
+      "dates": "2026-11-28",
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "end_date": "2026-11-28",
+      "hours": null,
+      "title": "Garage Sale",
+      "details": "Various items for sale at great prices. Come check us out.…",
+      "source": "YardSaleSearch",
+      "url": "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196472567",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.88,
+      "status": "verified",
+      "lat": 29.528671,
+      "lon": -98.369762,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "yss-9906dullknifewaysanantoniotx-2026-11-28",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "date_bucket": "live",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://garagesalefinder.com/s/N9CNu/9906-dull-knife-way-san-antonio-tx-78239",
+        "https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196472567"
+      ],
+      "sources": [
+        "GarageSaleFinder",
+        "YardSaleSearch"
+      ],
+      "aliases": [
+        "29.52000,-98.36000|Garage Sale",
+        "yss-9906dullknifewaysanantoniotx-2026-11-28"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "82 Oak Fields Dr, Floresville, TX",
+      "dates": "2026-12-03 – 2026-12-05",
+      "date_from": "2026-12-03",
+      "date_to": "2026-12-05",
+      "date_start": "2026-12-03",
+      "date_end": "2026-12-05",
+      "end_date": "2026-12-05",
+      "hours": "9am-3pm",
+      "title": "Floresville Multi-family garage sale",
+      "details": "Floresville. Multi-family garage sale, 82 Oak Fields Dr., Thurs.-Sat., Dec. 3-5, from 9-3. Come by and shop for new and Read more...",
+      "source": "Wilson County News",
+      "url": "https://www.wilsoncountynews.com/classifieds/garage-sale/390793/",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.86,
+      "status": "verified",
+      "lat": 29.221902950988,
+      "lon": -98.227620904429,
+      "geocode": "census",
+      "in_person": true,
+      "external_id": "wcn-390793",
+      "date_bucket": "upcoming",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.wilsoncountynews.com/classifieds/garage-sale/390793/"
+      ],
+      "sources": [
+        "Wilson County News"
+      ],
+      "aliases": [
+        "wcn-390793"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "132 Grandview In Riverbend Golf Community, Floresville, TX",
+      "dates": "2026-12-04 – 2026-12-06",
+      "date_from": "2026-12-04",
+      "date_to": "2026-12-06",
+      "date_start": "2026-12-04",
+      "date_end": "2026-12-06",
+      "end_date": "2026-12-06",
+      "hours": "8am-3pm",
+      "title": "Floresville 132 Grandview in Riverbend Golf Community",
+      "details": "Floresville. 132 Grandview in Riverbend Golf Community, Fri.-Sun., Dec. 4-6, from 8-3. Over 200+ house plants, golf clubs, golf balls, Read more...",
+      "source": "Wilson County News",
+      "url": "https://www.wilsoncountynews.com/classifieds/garage-sale/390865/",
+      "photos": 0,
+      "type": "community",
+      "categories": [
+        "community-sale"
+      ],
+      "confidence": 0.86,
+      "status": "verified",
+      "lat": 29.15104775933,
+      "lon": -98.186735704258,
+      "geocode": "census",
+      "in_person": true,
+      "external_id": "wcn-390865",
+      "date_bucket": "upcoming",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.wilsoncountynews.com/classifieds/garage-sale/390865/"
+      ],
+      "sources": [
+        "Wilson County News"
+      ],
+      "aliases": [
+        "wcn-390865"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "307 Seguin Rd, La Vernia, TX",
+      "dates": "2026-12-04 – 2026-12-05",
+      "date_from": "2026-12-04",
+      "date_to": "2026-12-05",
+      "date_start": "2026-12-04",
+      "date_end": "2026-12-05",
+      "end_date": "2026-12-05",
+      "hours": "9am-4pm",
+      "title": "La Vernia Multi-family yard sale",
+      "details": "La Vernia. Multi-family yard sale, 307 Seguin Rd., Fri.-Sat., Dec. 4-5, from 9-4. Household items, clothing, albums, antiques, football cards, Read more...",
+      "source": "Wilson County News",
+      "url": "https://www.wilsoncountynews.com/classifieds/garage-sale/390661/",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.86,
+      "status": "verified",
+      "lat": 29.356909769674,
+      "lon": -98.112305916526,
+      "geocode": "census",
+      "in_person": true,
+      "external_id": "wcn-390661",
+      "date_bucket": "upcoming",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.wilsoncountynews.com/classifieds/garage-sale/390661/"
+      ],
+      "sources": [
+        "Wilson County News"
+      ],
+      "aliases": [
+        "wcn-390661"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "5550 COOL VALLEY DR, SAN ANTONIO, TX, 78242",
+      "source_address": "5550 Cool Valley Dr, San Antonio, TX 78242",
+      "dates": "2026-12-04 – 2026-12-05",
+      "date_from": "2026-12-04",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "date_start": "2026-12-04",
+      "date_end": "2026-12-05",
+      "date_bucket": "upcoming",
+      "hours": "8:00 AM – 2:00 PM",
+      "title": "Garage sale – Cool Valley",
+      "details": "Neighborhood-wide sale; this pin is the listed house address.",
+      "source": "Nextdoor",
+      "url": "https://nextdoor.com/for_sale_and_free/4d9ae6f9-10a4-4a1b-8213-e90a072d3c62/",
+      "photos": 0,
+      "type": "garage",
+      "confidence": 0.85,
+      "status": "verified",
+      "lat": 29.360676021994,
+      "lon": -98.606645006641,
+      "geocode": "census",
+      "external_id": "nd-5550-cool-valley-2026-12-04",
+      "categories": [
+        "garage-sale",
+        "nextdoor"
+      ],
+      "zip": "78242",
+      "city": "San Antonio",
+      "in_person": true,
+      "date_note": "Dates and hours as posted in the Nov 28 Muse leads staging file; hours left blank when not posted.",
+      "date_verified": "muse-leads-2026-11-28",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://nextdoor.com/for_sale_and_free/4d9ae6f9-10a4-4a1b-8213-e90a072d3c62/"
+      ],
+      "sources": [
+        "Nextdoor"
+      ],
+      "aliases": [
+        "nd-5550-cool-valley-2026-12-04"
+      ],
+      "confidence_label": "community_submitted",
+      "confidence_note": "Shared by a community member or community platform. Details have not been independently confirmed at the address."
+    },
+    {
+      "address": "15522 Rhodius Ln, Selma, TX",
+      "dates": "2026-12-05 – 2026-12-06",
+      "date_from": "2026-12-05",
+      "date_to": "2026-12-06",
+      "date_start": "2026-12-05",
+      "date_end": "2026-12-06",
+      "end_date": "2026-12-06",
+      "hours": null,
+      "title": "🚨 **Massive Garage Sale & Antique Inventory Clear-Out — Selma, Tx** 🚨",
+      "details": "Saturday, December 5 & Sunday, December 6, 2026 | Weather Permitting We are doing a HUGE clean-out! Tons of quality merchandise, name-brand clothing, unique finds, home décor, holiday decorations and LOTS of brand-new, unopened and never-used items! Here is just a sampling of what will be available: 👗 Women's Clothing & Accessories Banana Republic, J.Crew, Ann Taylor, dresses with original tags, n",
+      "source": "yardsales.net",
+      "url": "https://yardsales.net/s/7HOp4",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.68,
+      "status": "verified",
+      "lat": 29.5801677,
+      "lon": -98.30099,
+      "geocode": "nominatim-place",
+      "in_person": true,
+      "external_id": "ysn-7HOp4",
+      "date_bucket": "upcoming",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.craigslist.org/view/d/schertz-massive-garage-sale-inventory/o5pvMHhaNdeoKD2jUop4WU",
+        "https://yardsales.net/s/7HOp4"
+      ],
+      "sources": [
+        "Craigslist",
+        "yardsales.net"
+      ],
+      "posted_at": "2026-11-24T15:04:44-0600",
+      "date_evidence": "2026-12-05 – 2026-12-06",
+      "aliases": [
+        "cl-gesaleinventoryo5pvmhhandeokd2juop4wu",
+        "ysn-7HOp4"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "4114 SW Loop 410, San Antonio, TX 78227",
+      "dates": "2026-12-05",
+      "date_from": "2026-12-05",
+      "date_to": "2026-12-05",
+      "date_start": "2026-12-05",
+      "date_end": "2026-12-05",
+      "end_date": "2026-12-05",
+      "hours": null,
+      "title": "Red Hot Rummage Sale",
+      "details": "",
+      "source": "AllEvents",
+      "url": "https://allevents.in/san-antonio/red-hot-rummage-sale/200031010681238",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.8,
+      "status": "verified",
+      "lat": 29.39222,
+      "lon": -98.646744,
+      "geocode": "source",
+      "in_person": true,
+      "external_id": "ae-200031010681238",
+      "date_bucket": "upcoming",
+      "aliases": [
+        "Springvale",
+        "ae-200031010681238"
+      ],
+      "neighborhood": "Springvale",
+      "neighborhood_aliases": [
+        "Springvale"
+      ],
+      "neighborhood_source": "city-of-san-antonio-neighborhood-associations",
+      "neighborhood_dataset_updated_at": "2026-11-16T16:28:59+00:00",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://allevents.in/san-antonio/red-hot-rummage-sale/200031010681238"
+      ],
+      "sources": [
+        "AllEvents"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "Sonte Estate Sale (address posts 9 a.m. CT the day before), San Antonio, TX 78230",
+      "dates": "2026-12-05 – 2026-12-06",
+      "date_from": "2026-12-05",
+      "date_to": "2026-12-06",
+      "date_start": "2026-12-05",
+      "date_end": "2026-12-06",
+      "end_date": "2026-12-06",
+      "hours": null,
+      "title": "Sonte Estate Sale",
+      "details": "Sonte Estate Sale. The street address posts at 9 a.m. CT the day before the sale begins. This pin is the sale area, not a driveway.",
+      "source": "A Better Estate Sale",
+      "url": "https://www.estatesales.net/TX/San-Antonio/78230/5138055",
+      "photos": 0,
+      "type": "estate",
+      "categories": [
+        "estate-sale",
+        "community-sale"
+      ],
+      "confidence": 0.6,
+      "status": "verified",
+      "lat": 29.4246002,
+      "lon": -98.4951405,
+      "geocode": "nominatim-place",
+      "in_person": true,
+      "external_id": "abes-sonte-estate-sale",
+      "date_bucket": "upcoming",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.estatesales.net/TX/San-Antonio/78230/5138055"
+      ],
+      "sources": [
+        "A Better Estate Sale"
+      ],
+      "aliases": [
+        "abes-sonte-estate-sale"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "#635: Sonte Estate Sale (address posts 9 a.m. CT the day before), San Antonio, TX 78230",
+      "dates": "2026-12-05 – 2026-12-06",
+      "date_from": "2026-12-05",
+      "date_to": "2026-12-06",
+      "date_start": "2026-12-05",
+      "date_end": "2026-12-06",
+      "end_date": "2026-12-06",
+      "hours": null,
+      "title": "#635: Sonte Estate Sale",
+      "details": "#635: Sonte Estate Sale. The street address posts at 9 a.m. CT the day before the sale begins. This pin is the sale area, not a driveway.",
+      "source": "A Better Estate Sale",
+      "url": "https://www.estatesales.net/TX/San-Antonio/78230/5138055",
+      "photos": 0,
+      "type": "estate",
+      "categories": [
+        "community-sale",
+        "estate-sale"
+      ],
+      "confidence": 0.6,
+      "status": "verified",
+      "lat": 29.4246002,
+      "lon": -98.4951405,
+      "geocode": "nominatim-place",
+      "in_person": true,
+      "external_id": "abes-635",
+      "date_bucket": "upcoming",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.estatesales.net/TX/San-Antonio/78230/5138055"
+      ],
+      "sources": [
+        "A Better Estate Sale"
+      ],
+      "aliases": [
+        "abes-635"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "9360 Abe Lincoln Rd, San Antonio, TX",
+      "dates": "2026-12-06",
+      "date_from": "2026-12-06",
+      "date_to": "2026-12-06",
+      "date_start": "2026-12-06",
+      "date_end": "2026-12-06",
+      "end_date": "2026-12-06",
+      "hours": null,
+      "title": "Yard Sale",
+      "details": "Household goods, clothing, electronics, crafts, baked goods, decorative items, jewelry and more.…",
+      "source": "yardsales.net",
+      "url": "https://yardsales.net/s/7HDw7",
+      "photos": 0,
+      "type": "garage",
+      "categories": [
+        "garage-sale"
+      ],
+      "confidence": 0.8,
+      "status": "verified",
+      "lat": 29.529505024391,
+      "lon": -98.617348025686,
+      "geocode": "census",
+      "in_person": true,
+      "external_id": "ysn-7HDw7",
+      "date_bucket": "upcoming",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://yardsales.net/s/7HDw7"
+      ],
+      "sources": [
+        "yardsales.net"
+      ],
+      "aliases": [
+        "ysn-7HDw7"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "#636: Port Estate Sale (address posts 9 a.m. CT the day before), San Antonio, TX 78070",
+      "dates": "2026-12-11 – 2026-12-13",
+      "date_from": "2026-12-11",
+      "date_to": "2026-12-13",
+      "date_start": "2026-12-11",
+      "date_end": "2026-12-13",
+      "end_date": "2026-12-13",
+      "hours": null,
+      "title": "#636: Port Estate Sale",
+      "details": "#636: Port Estate Sale. The street address posts at 9 a.m. CT the day before the sale begins. This pin is the sale area, not a driveway.",
+      "source": "A Better Estate Sale",
+      "url": "https://www.estatesales.net/TX/Spring-Branch/78070/5165724",
+      "photos": 0,
+      "type": "estate",
+      "categories": [
+        "community-sale",
+        "estate-sale"
+      ],
+      "confidence": 0.6,
+      "status": "verified",
+      "lat": 29.4246002,
+      "lon": -98.4951405,
+      "geocode": "nominatim-place",
+      "in_person": true,
+      "external_id": "abes-636",
+      "date_bucket": "upcoming",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://www.estatesales.net/TX/Spring-Branch/78070/5165724"
+      ],
+      "sources": [
+        "A Better Estate Sale"
+      ],
+      "aliases": [
+        "abes-636"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    },
+    {
+      "address": "15711 Wood Sorrel, San Antonio, TX 78247",
+      "dates": "2026-12-12 – 2026-12-13",
+      "date_from": "2026-12-12",
+      "date_to": "2026-12-13",
+      "end_date": "2026-12-13",
+      "hours": "2026-12-12 9:00 am-3:00 am; 2026-12-12 9:00 am-3:00 am",
+      "title": "30 YEARS OF TREASURES — ESTATE SALE!",
+      "details": "After 30 wonderful years in this home, it’s time to pass along a lifetime of beautiful finds, cherished collections, and household treasures to new homes! The home is packed with high quality furniture, collectibles, crafts, décor, kitchen essentia...",
+      "source": "EstateSales.org",
+      "url": "https://estatesales.org/estate-sales/tx/san-antonio/78247/30-years-of-treasures-estate-2474896",
+      "photos": 0,
+      "type": "estate",
+      "categories": [
+        "estate-sale",
+        "in-person"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.588222,
+      "lon": -98.40565,
+      "geocode": "source",
+      "company": null,
+      "in_person": true,
+      "external_id": "eso-2474896",
+      "aliases": [
+        "Longs Creek",
+        "eso-2474896"
+      ],
+      "date_start": "2026-12-12",
+      "date_end": "2026-12-13",
+      "date_bucket": "upcoming",
+      "neighborhood": "Longs Creek",
+      "neighborhood_aliases": [
+        "Longs Creek"
+      ],
+      "neighborhood_source": "city-of-san-antonio-neighborhood-associations",
+      "neighborhood_dataset_updated_at": "2026-11-16T16:28:59+00:00",
+      "date_certainty": "published",
+      "source_urls": [
+        "https://estatesales.org/estate-sales/tx/san-antonio/78247/30-years-of-treasures-estate-2474896"
+      ],
+      "sources": [
+        "EstateSales.org"
+      ],
+      "confidence_label": "source_confirmed",
+      "confidence_note": "A public listing link is available from this source. This does not mean Chica’s Map independently confirmed the sale."
+    }
+  ],
+  "permits": [],
+  "unconfirmed": [
+    {
+      "address": "1970 RAYBURN DR",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821250",
+      "primary_contact": "Ricardo Canales",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.7,
+      "status": "verified",
+      "lat": null,
+      "lon": null,
+      "geocode": "missing",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "7824 MAINLAND DR, San Antonio, TX 78250",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821248",
+      "primary_contact": "Iglesia Nuevo Comienzo",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.510547,
+      "lon": -98.639618,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "331 SEELING BLVD, San Antonio, TX 78228",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821238",
+      "primary_contact": "Veronica R Getty",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.46413,
+      "lon": -98.55364,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "4602 RIVER FORK, San Antonio, TX 78222",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821255",
+      "primary_contact": "Alberto M Palacios",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.378959,
+      "lon": -98.400197,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "5418 PLANTATION, San Antonio, TX 78230",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821254",
+      "primary_contact": "Maria Ynclan",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.532668,
+      "lon": -98.540734,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "826 W CRAIG PLACE, San Antonio, TX 78212",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "826 CRAIG PLACE",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821247",
+      "primary_contact": "Vincent Michael",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.451679,
+      "lon": -98.507296,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "3559 W WOODLAWN AVE, San Antonio, TX 78228",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "3559 WOODLAWN AVE",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821252",
+      "primary_contact": "Jose Corona",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.458362,
+      "lon": -98.570767,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "1411 BETTY ST, San Antonio, TX 78224",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821249",
+      "primary_contact": "Esperanza Diaz",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.334156,
+      "lon": -98.530951,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "221 CLIFF AVE, San Antonio, TX 78214",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821256",
+      "primary_contact": "Sandy Ramos",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.366963,
+      "lon": -98.499004,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "322 RUSTIC STABLE, San Antonio, TX 78227",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821245",
+      "primary_contact": "Desire Renee Jimenez",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.38727,
+      "lon": -98.650268,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "1003 BOBCAT CREEK, San Antonio, TX 78251",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821251",
+      "primary_contact": "Angela Rodriguez",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.442801,
+      "lon": -98.70403,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "11822 BUTTON WILLOW COVE, San Antonio, TX 78213",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821246",
+      "primary_contact": "Edward M Cody",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.548373,
+      "lon": -98.520276,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "818 W HARLAN AVE, San Antonio, TX 78211",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "818 HARLAN AVE",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821236",
+      "primary_contact": "diana l ramos",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.371747,
+      "lon": -98.517527,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "2311 COPPER ASH, San Antonio, TX 78232",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted estate sale",
+      "details": "Official City of San Antonio permit flagged as estate / professional liquidation. Legal hours 9 a.m.–6 p.m. Exact sale day not published — verify on-site.",
+      "source": "Open Data SA (Estate / Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821258",
+      "primary_contact": "Satx select liquidators llc",
+      "photos": 0,
+      "type": "estate",
+      "categories": [
+        "estate-sale",
+        "permit"
+      ],
+      "confidence": 0.92,
+      "status": "verified",
+      "lat": 29.601218,
+      "lon": -98.455462,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": true
+    },
+    {
+      "address": "2211 W WOODLAWN AVE, San Antonio, TX 78201",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "2211 WOODLAWN AVE",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821243",
+      "primary_contact": "Mary Cadena",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.455181,
+      "lon": -98.535554,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "1204 CASTROVILLE RD, San Antonio, TX 78237",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821242",
+      "primary_contact": "Our Lady of Good Counsel",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.415109,
+      "lon": -98.557604,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "2923 LAKELAND DR, San Antonio, TX 78222",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821253",
+      "primary_contact": "Jack Daniel Deyne",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.389815,
+      "lon": -98.377265,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "10115 HARR KNOLL, San Antonio, TX 78224",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821241",
+      "primary_contact": "Emilie Nicole Prado",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.316392,
+      "lon": -98.526082,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "5715 SPRING MOON, San Antonio, TX 78247",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821244",
+      "primary_contact": "Estella Zaragoza",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.575086,
+      "lon": -98.378937,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "239 MONTFORT DR, San Antonio, TX 78216",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821239",
+      "primary_contact": "Xiomara Garduno",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.514264,
+      "lon": -98.503145,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "7803 HOBBLE ST, San Antonio, TX 78227",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821240",
+      "primary_contact": "Yarisley Rodriguez",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.417055,
+      "lon": -98.642779,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "5430 PEARL VALLEY, San Antonio, TX 78242",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821237",
+      "primary_contact": "Jose Ortiz",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.362743,
+      "lon": -98.604267,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "1015 ELDORADO ST, San Antonio, TX 78225",
+      "dates": "Permit issued Fri Nov 20 · typical use within 2 weeks",
+      "date_from": "2026-11-20",
+      "date_to": "2026-12-06",
+      "end_date": "2026-12-06",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821257",
+      "primary_contact": "Emiley Ann Delgado",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.389864,
+      "lon": -98.51752,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "1732 EL MONTE BLVD, San Antonio, TX 78201",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821231",
+      "primary_contact": "Emilie M Garza",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.484748,
+      "lon": -98.524082,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "435 DE HERRERA, San Antonio, TX 78219",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821230",
+      "primary_contact": "Britnee Cruz",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.427711,
+      "lon": -98.362455,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "5930 IVANS FARM, San Antonio, TX 78244",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821234",
+      "primary_contact": "Casey OVALLE",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.469047,
+      "lon": -98.371891,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "7727 CARTWHEEL LANE, San Antonio, TX 78227",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821225",
+      "primary_contact": "Vanessa Gonzalez",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.406655,
+      "lon": -98.64245,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "8202 QUIET CREEK DR, San Antonio, TX 78242",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821226",
+      "primary_contact": "Allyssa Macias",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.346674,
+      "lon": -98.602117,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "1622 RICHLAND HILLS DR, San Antonio, TX 78251",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821233",
+      "primary_contact": "Nancy Ulloa Brewer",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.454997,
+      "lon": -98.664326,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "2422 BLUFFRIDGE, San Antonio, TX 78232",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821232",
+      "primary_contact": "James R. Gerhard",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.582709,
+      "lon": -98.452628,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "2214 BRONTE, San Antonio, TX 78207",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821229",
+      "primary_contact": "Arturo Castillo",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.405722,
+      "lon": -98.538125,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "510 W MARIPOSA, San Antonio, TX 78212",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "510 MARIPOSA",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821235",
+      "primary_contact": "Berlinda Baltazar",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.480146,
+      "lon": -98.504861,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "14934 OAK SUMMIT, San Antonio, TX 78232",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821228",
+      "primary_contact": "Ashley M Phillips",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.578609,
+      "lon": -98.459086,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "1634 DE VALLE, San Antonio, TX 78251",
+      "dates": "Permit issued Thu Nov 19 · typical use within 2 weeks",
+      "date_from": "2026-11-19",
+      "date_to": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821227",
+      "primary_contact": "Cynthia Mayfield",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.454846,
+      "lon": -98.663564,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "4715 WYCLIFF, San Antonio, TX 78220",
+      "dates": "Permit issued Wed Nov 18 · typical use within 2 weeks",
+      "date_from": "2026-11-18",
+      "date_to": "2026-12-04",
+      "end_date": "2026-12-04",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821218",
+      "primary_contact": "Maria Botello",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.400363,
+      "lon": -98.401871,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "6118 FRIO VALLEY, San Antonio, TX 78242",
+      "dates": "Permit issued Wed Nov 18 · typical use within 2 weeks",
+      "date_from": "2026-11-18",
+      "date_to": "2026-12-04",
+      "end_date": "2026-12-04",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821223",
+      "primary_contact": "Erika Cuellar",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.348602,
+      "lon": -98.623084,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "15507 TRIPLE CREEK, San Antonio, TX 78247",
+      "dates": "Permit issued Wed Nov 18 · typical use within 2 weeks",
+      "date_from": "2026-11-18",
+      "date_to": "2026-12-04",
+      "end_date": "2026-12-04",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821219",
+      "primary_contact": "Pik Martinez",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.583153,
+      "lon": -98.42886,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "8547 BRISTLECONE, San Antonio, TX 78240",
+      "dates": "Permit issued Wed Nov 18 · typical use within 2 weeks",
+      "date_from": "2026-11-18",
+      "date_to": "2026-12-04",
+      "end_date": "2026-12-04",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821220",
+      "primary_contact": "Pamela Anne Garza",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.521019,
+      "lon": -98.633728,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "8809 TIMBERWILDE DR, San Antonio, TX 78250",
+      "dates": "Permit issued Wed Nov 18 · typical use within 2 weeks",
+      "date_from": "2026-11-18",
+      "date_to": "2026-12-04",
+      "end_date": "2026-12-04",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821217",
+      "primary_contact": "Great Northwest",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.486464,
+      "lon": -98.659252,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "4050 GALLERY SUN DR, San Antonio, TX 78244",
+      "dates": "Permit issued Wed Nov 18 · typical use within 2 weeks",
+      "date_from": "2026-11-18",
+      "date_to": "2026-12-04",
+      "end_date": "2026-12-04",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821221",
+      "primary_contact": "Pablo Chavez",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.462112,
+      "lon": -98.371285,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "5710 BRENDA LANE, San Antonio, TX 78240",
+      "dates": "Permit issued Wed Nov 18 · typical use within 2 weeks",
+      "date_from": "2026-11-18",
+      "date_to": "2026-12-04",
+      "end_date": "2026-12-04",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821222",
+      "primary_contact": "Robert Torres",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.493146,
+      "lon": -98.597989,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "9003 OCEAN PORT, San Antonio, TX 78242",
+      "dates": "Permit issued Wed Nov 18 · typical use within 2 weeks",
+      "date_from": "2026-11-18",
+      "date_to": "2026-12-04",
+      "end_date": "2026-12-04",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821224",
+      "primary_contact": "Betty L Saldivar",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.332241,
+      "lon": -98.615692,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "103 TANGO, San Antonio, TX 78216",
+      "dates": "Permit issued Tue Nov 17 · typical use within 2 weeks",
+      "date_from": "2026-11-17",
+      "date_to": "2026-12-03",
+      "end_date": "2026-12-03",
+      "title": "City-permitted estate sale",
+      "details": "Official City of San Antonio permit flagged as estate / professional liquidation. Legal hours 9 a.m.–6 p.m. Exact sale day not published — verify on-site.",
+      "source": "Open Data SA (Estate / Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821216",
+      "primary_contact": "Golden Bow Estate Sales",
+      "photos": 0,
+      "type": "estate",
+      "categories": [
+        "estate-sale",
+        "permit"
+      ],
+      "confidence": 0.92,
+      "status": "verified",
+      "lat": 29.538467,
+      "lon": -98.493902,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": true
+    },
+    {
+      "address": "7223 SNOWDEN RD, San Antonio, TX 78240",
+      "dates": "Permit issued Tue Nov 17 · typical use within 2 weeks",
+      "date_from": "2026-11-17",
+      "date_to": "2026-12-03",
+      "end_date": "2026-12-03",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821212",
+      "primary_contact": "Josie Zamora",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.503753,
+      "lon": -98.58852,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "136 GRAPELAND AVE, San Antonio, TX 78214",
+      "dates": "Permit issued Tue Nov 17 · typical use within 2 weeks",
+      "date_from": "2026-11-17",
+      "date_to": "2026-12-03",
+      "end_date": "2026-12-03",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821214",
+      "primary_contact": "Maria Luisa Gonzales",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.367442,
+      "lon": -98.499141,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "4042 BLUE OAK PASS, San Antonio, TX 78223",
+      "dates": "Permit issued Tue Nov 17 · typical use within 2 weeks",
+      "date_from": "2026-11-17",
+      "date_to": "2026-12-03",
+      "end_date": "2026-12-03",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821215",
+      "primary_contact": "Elisa Hernandez de moreno",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.353559,
+      "lon": -98.415065,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "210 ROYAL OAKS DR, San Antonio, TX 78209",
+      "dates": "Permit issued Tue Nov 17 · typical use within 2 weeks",
+      "date_from": "2026-11-17",
+      "date_to": "2026-12-03",
+      "end_date": "2026-12-03",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821213",
+      "primary_contact": "Matt strange",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.513548,
+      "lon": -98.444499,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "8723 FINLANDIA GAP, San Antonio, TX 78251",
+      "dates": "Permit issued Mon Nov 16 · typical use within 2 weeks",
+      "date_from": "2026-11-16",
+      "date_to": "2026-12-02",
+      "end_date": "2026-12-02",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821211",
+      "primary_contact": "Michael Fierros",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.458186,
+      "lon": -98.65703,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "5838 TREE VIEW DR, San Antonio, TX 78220",
+      "dates": "Permit issued Sun Nov 15 · typical use within 2 weeks",
+      "date_from": "2026-11-15",
+      "date_to": "2026-12-01",
+      "end_date": "2026-12-01",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821209",
+      "primary_contact": "Ma Luisa Dixon",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.419737,
+      "lon": -98.375924,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "7406 MIDCROWN DR, San Antonio, TX 78218",
+      "dates": "Permit issued Sun Nov 15 · typical use within 2 weeks",
+      "date_from": "2026-11-15",
+      "date_to": "2026-12-01",
+      "end_date": "2026-12-01",
+      "title": "City-permitted estate sale",
+      "details": "Official City of San Antonio permit flagged as estate / professional liquidation. Legal hours 9 a.m.–6 p.m. Exact sale day not published — verify on-site.",
+      "source": "Open Data SA (Estate / Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821210",
+      "primary_contact": "About Face Estate Sales LLC",
+      "photos": 0,
+      "type": "estate",
+      "categories": [
+        "estate-sale",
+        "permit"
+      ],
+      "confidence": 0.92,
+      "status": "verified",
+      "lat": 29.500671,
+      "lon": -98.383055,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": true
+    },
+    {
+      "address": "8807 ROQUEFORT, San Antonio, TX 78250",
+      "dates": "Permit issued Sat Nov 14 · typical use within 2 weeks",
+      "date_from": "2026-11-14",
+      "date_to": "2026-11-30",
+      "end_date": "2026-11-30",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821203",
+      "primary_contact": "Leticia Cantu",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.520474,
+      "lon": -98.673698,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "4306 SHAVANO PEAK, San Antonio, TX 78230",
+      "dates": "Permit issued Sat Nov 14 · typical use within 2 weeks",
+      "date_from": "2026-11-14",
+      "date_to": "2026-11-30",
+      "end_date": "2026-11-30",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821205",
+      "primary_contact": "Nicholas John Ochoa",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.571016,
+      "lon": -98.56731,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "5932 MONTEREY ST, San Antonio, TX 78237",
+      "dates": "Permit issued Sat Nov 14 · typical use within 2 weeks",
+      "date_from": "2026-11-14",
+      "date_to": "2026-11-30",
+      "end_date": "2026-11-30",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821206",
+      "primary_contact": "Ignacio Zuniga",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.429854,
+      "lon": -98.570967,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "1419 PEACOCK HAVEN, San Antonio, TX 78260",
+      "dates": "Permit issued Sat Nov 14 · typical use within 2 weeks",
+      "date_from": "2026-11-14",
+      "date_to": "2026-11-30",
+      "end_date": "2026-11-30",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821201",
+      "primary_contact": "Abigail Kamin Kamin",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.649396,
+      "lon": -98.518228,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "18126 SUMMER KNOLL, San Antonio, TX 78258",
+      "dates": "Permit issued Sat Nov 14 · typical use within 2 weeks",
+      "date_from": "2026-11-14",
+      "date_to": "2026-11-30",
+      "end_date": "2026-11-30",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821208",
+      "primary_contact": "Deborah Cusson",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.631447,
+      "lon": -98.488995,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "2131 WILLIAM TRAVIS, San Antonio, TX 78238",
+      "dates": "Permit issued Sat Nov 14 · typical use within 2 weeks",
+      "date_from": "2026-11-14",
+      "date_to": "2026-11-30",
+      "end_date": "2026-11-30",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821207",
+      "primary_contact": "Jacqueline M Ekeanu",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.457013,
+      "lon": -98.607552,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "10322 SEVERN, San Antonio, TX 78217",
+      "dates": "Permit issued Sat Nov 14 · typical use within 2 weeks",
+      "date_from": "2026-11-14",
+      "date_to": "2026-11-30",
+      "end_date": "2026-11-30",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821204",
+      "primary_contact": "tracy velasquez",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.533954,
+      "lon": -98.443516,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "5127 TERLINGUA PASS, San Antonio, TX 78222",
+      "dates": "Permit issued Sat Nov 14 · typical use within 2 weeks",
+      "date_from": "2026-11-14",
+      "date_to": "2026-11-30",
+      "end_date": "2026-11-30",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821202",
+      "primary_contact": "Elena Costello",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.374365,
+      "lon": -98.378311,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    },
+    {
+      "address": "1418 MULESHOE PASS, San Antonio, TX 78258",
+      "dates": "Permit issued Sat Nov 14 · typical use within 2 weeks",
+      "date_from": "2026-11-14",
+      "date_to": "2026-11-30",
+      "end_date": "2026-11-30",
+      "title": "City-permitted garage sale",
+      "details": "Official City of San Antonio garage-sale permit. Legal sale hours 9 a.m.–6 p.m. Exact sale day not published in open data — verify on-site or with seller.",
+      "source": "Open Data SA (Garage Sale permit)",
+      "permit_number": "BLDG-GS-PMT-13821200",
+      "primary_contact": "ARETA SHERMAN",
+      "photos": 0,
+      "type": "permit",
+      "categories": [
+        "garage-sale",
+        "permit"
+      ],
+      "confidence": 0.9,
+      "status": "verified",
+      "lat": 29.634647,
+      "lon": -98.483618,
+      "geocode": "city-open-data",
+      "hours": "9 a.m. – 6 p.m. (city rule)",
+      "is_estate": false
+    }
+  ]
+}

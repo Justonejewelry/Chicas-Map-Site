@@ -1,0 +1,252 @@
+{
+  "generated_at": "2026-11-28T05:53:10-06:00",
+  "overall": "degraded",
+  "primary_failures": [],
+  "sources": [
+    {
+      "source": "garagesalefinder",
+      "primary": false,
+      "last_attempt_at": "2026-11-28T05:51:06-06:00",
+      "finished_at": "2026-11-28T05:51:09-06:00",
+      "exit_code": 0,
+      "records_found": 29,
+      "records_found_metric": "parsed",
+      "status": "ok",
+      "detail": "14 parsed",
+      "last_successful_retrieval": "2026-11-28T05:51:09-06:00",
+      "last_success_age_hours": 0.0,
+      "stale": false
+    },
+    {
+      "source": "permits",
+      "primary": false,
+      "last_attempt_at": "2026-11-28T05:51:09-06:00",
+      "finished_at": "2026-11-28T05:51:09-06:00",
+      "exit_code": 0,
+      "records_found": 59,
+      "records_found_metric": "permits_in_window",
+      "status": "ok",
+      "detail": "garage/estate permits in window=59",
+      "last_successful_retrieval": "2026-11-28T05:51:09-06:00",
+      "last_success_age_hours": 0.0,
+      "stale": false
+    },
+    {
+      "source": "estatesales_org",
+      "primary": true,
+      "last_attempt_at": "2026-11-28T05:51:09-06:00",
+      "finished_at": "2026-11-28T05:51:12-06:00",
+      "exit_code": 0,
+      "records_found": 6,
+      "records_found_metric": "normalized",
+      "status": "ok",
+      "detail": "normalized=3",
+      "last_successful_retrieval": "2026-11-28T05:51:12-06:00",
+      "last_success_age_hours": 0.0,
+      "stale": false
+    },
+    {
+      "source": "yardsalesearch",
+      "primary": true,
+      "last_attempt_at": "2026-11-28T05:51:12-06:00",
+      "finished_at": "2026-11-28T05:51:15-06:00",
+      "exit_code": 0,
+      "records_found": 15,
+      "records_found_metric": "normalized",
+      "status": "ok",
+      "detail": "normalized=10",
+      "last_successful_retrieval": "2026-11-28T05:51:15-06:00",
+      "last_success_age_hours": 0.0,
+      "stale": false
+    },
+    {
+      "source": "gsalr",
+      "primary": false,
+      "last_attempt_at": "2026-11-28T05:51:15-06:00",
+      "finished_at": "2026-11-28T05:51:17-06:00",
+      "exit_code": 0,
+      "records_found": null,
+      "records_found_metric": "normalized",
+      "status": "soft_blocked",
+      "detail": "HTTP 403 (expected soft-block on GitHub Actions; secondary source)",
+      "last_successful_retrieval": "2026-11-28T03:16:27-06:00",
+      "last_success_age_hours": 2.6,
+      "stale": false
+    },
+    {
+      "source": "craigslist",
+      "primary": true,
+      "last_attempt_at": "2026-11-28T05:51:17-06:00",
+      "finished_at": "2026-11-28T05:51:50-06:00",
+      "exit_code": 0,
+      "records_found": 20,
+      "records_found_metric": "enriched",
+      "status": "ok",
+      "detail": "enriched=20",
+      "last_successful_retrieval": "2026-11-28T05:51:50-06:00",
+      "last_success_age_hours": 0.0,
+      "stale": false
+    },
+    {
+      "source": "estatesales_net",
+      "primary": false,
+      "last_attempt_at": "2026-11-28T05:53:09-06:00",
+      "finished_at": "2026-11-28T05:53:10-06:00",
+      "exit_code": 0,
+      "records_found": 2,
+      "records_found_metric": "normalized",
+      "status": "ok",
+      "detail": "normalized=1",
+      "last_successful_retrieval": "2026-11-28T05:53:10-06:00",
+      "last_success_age_hours": 0.0,
+      "stale": false
+    },
+    {
+      "source": "express_news",
+      "primary": false,
+      "last_attempt_at": "2026-11-28T05:51:50-06:00",
+      "finished_at": "2026-11-28T05:51:51-06:00",
+      "exit_code": 0,
+      "records_found": null,
+      "records_found_metric": "normalized",
+      "status": "completed_unverified",
+      "detail": "script exited successfully but emitted no recognized retrieval/result marker",
+      "last_success_age_hours": null,
+      "stale": false
+    },
+    {
+      "source": "wilson_county",
+      "primary": false,
+      "last_attempt_at": "2026-11-28T05:51:51-06:00",
+      "finished_at": "2026-11-28T05:52:26-06:00",
+      "exit_code": 0,
+      "records_found": null,
+      "records_found_metric": "normalized",
+      "status": "fail",
+      "detail": "WARN: non-200",
+      "last_successful_retrieval": "2026-11-28T05:20:02-06:00",
+      "last_success_age_hours": 0.6,
+      "stale": false
+    },
+    {
+      "source": "yardsales_net",
+      "primary": false,
+      "last_attempt_at": "2026-11-28T05:52:26-06:00",
+      "finished_at": "2026-11-28T05:52:27-06:00",
+      "exit_code": 0,
+      "records_found": null,
+      "records_found_metric": "normalized",
+      "status": "soft_blocked",
+      "detail": "HTTP 403 (expected soft-block on GitHub Actions; secondary source)",
+      "last_successful_retrieval": "2026-11-28T03:17:24-06:00",
+      "last_success_age_hours": 2.6,
+      "stale": false
+    },
+    {
+      "source": "abetterestatesale",
+      "primary": false,
+      "last_attempt_at": "2026-11-28T05:52:27-06:00",
+      "finished_at": "2026-11-28T05:52:29-06:00",
+      "exit_code": 0,
+      "records_found": 3,
+      "records_found_metric": "normalized",
+      "status": "ok",
+      "detail": "normalized=3",
+      "last_successful_retrieval": "2026-11-28T05:52:29-06:00",
+      "last_success_age_hours": 0.0,
+      "stale": false
+    },
+    {
+      "source": "blox_classifieds",
+      "primary": false,
+      "last_attempt_at": "2026-11-28T05:52:29-06:00",
+      "finished_at": "2026-11-28T05:52:53-06:00",
+      "exit_code": 0,
+      "records_found": 0,
+      "records_found_metric": "normalized",
+      "status": "fail",
+      "detail": "HTTP 429",
+      "last_successful_retrieval": "2026-11-28T05:20:12-06:00",
+      "last_success_age_hours": 0.5,
+      "stale": false
+    },
+    {
+      "source": "event_listings",
+      "primary": false,
+      "last_attempt_at": "2026-11-28T05:52:53-06:00",
+      "finished_at": "2026-11-28T05:53:09-06:00",
+      "exit_code": 0,
+      "records_found": 2,
+      "records_found_metric": "normalized",
+      "status": "ok",
+      "detail": "normalized=2",
+      "last_successful_retrieval": "2026-11-28T05:53:09-06:00",
+      "last_success_age_hours": 0.0,
+      "stale": false
+    }
+  ],
+  "json_source_counts": {
+    "garagesalefinder": 113,
+    "facebook": 13,
+    "nextdoor": 5,
+    "aggregators": 2,
+    "yardsalesearch": 66,
+    "craigslist": 60,
+    "express-news marketplace": 8,
+    "wilson county news": 6,
+    "a better estate sale": 5,
+    "seguin gazette": 1,
+    "allevents": 5,
+    "yardsales.net": 4,
+    "estatesales.org": 14,
+    "estatesales.net": 2,
+    "email:formspree": 1,
+    "facebook: san antonio yard sales": 2,
+    "facebook: alamo ranch marketplace": 2,
+    "nextdoor: guilbeau park": 1
+  },
+  "tracked_inventory_counts": {
+    "garagesalefinder": 113,
+    "yardsalesearch": 66,
+    "craigslist": 60,
+    "express_news": 8,
+    "wilson_county": 6,
+    "abetterestatesale": 5,
+    "blox_classifieds": 1,
+    "event_listings": 5,
+    "yardsales_net": 4,
+    "estatesales_org": 14,
+    "estatesales_net": 2
+  },
+  "untracked_sources": [
+    {
+      "source": "facebook",
+      "listings": 13
+    },
+    {
+      "source": "nextdoor",
+      "listings": 5
+    },
+    {
+      "source": "aggregators",
+      "listings": 2
+    },
+    {
+      "source": "facebook: san antonio yard sales",
+      "listings": 2
+    },
+    {
+      "source": "facebook: alamo ranch marketplace",
+      "listings": 2
+    },
+    {
+      "source": "email:formspree",
+      "listings": 1
+    },
+    {
+      "source": "nextdoor: guilbeau park",
+      "listings": 1
+    }
+  ],
+  "notes": "Primary free sources: estatesales_org, yardsalesearch, craigslist. Secondary: gsalr, garagesalefinder, permits, estatesales_net, express_news, wilson_county, yardsales_net, abetterestatesale, blox_classifieds, event_listings. Only explicit source errors/nonzero exits count as failures. Missing logs are not_run, a source script absent from the repo is missing_script, zero listings are a successful empty retrieval, and unrecognized output is unverified. Two or more failed primary sources are critical. A tracked source whose last successful retrieval is over 48h old is stale. Source-attributed JSON counts are inventory evidence, not proof of a fresh retrieval. untracked_sources contribute listings through other pipeline paths (submissions, community/event feeds, manual adds) and have no per-run retrieval log. Apify removed 2026-08-22. gsalr and yardsales_net 403s from GitHub Actions are expected soft_blocked and do not degrade overall health."
+}
